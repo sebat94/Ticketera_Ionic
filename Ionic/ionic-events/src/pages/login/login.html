@@ -1,0 +1,30 @@
+<ion-header>
+    <ion-navbar>
+      <button ion-button menuToggle>
+        <ion-icon name="menu"></ion-icon>
+      </button>
+      <ion-title>Home</ion-title>
+    </ion-navbar>
+  </ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+      <form #formLogin="ngForm">
+        <ion-item>
+          <ion-label floating>Email</ion-label>
+          <ion-input type="email" name="email" [(ngModel)]="email" required></ion-input>
+        </ion-item>
+      
+        <ion-item>
+          <ion-label floating>Password</ion-label>
+          <ion-input type="password" name="password" [(ngModel)]="password" required></ion-input>
+        </ion-item>
+      </form>
+    </ion-list>
+    
+    <div class="btn_group" padding>
+        <button ion-button class="btn_half_width" color="warning" block (tap)="goRegister()">Register</button>
+        <button ion-button class="btn_half_width" color="primary" block (tap)="login()" [disabled]="formLogin.invalid">Login</button>
+    </div>
+</ion-content>
