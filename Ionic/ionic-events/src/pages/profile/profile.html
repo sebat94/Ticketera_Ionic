@@ -1,0 +1,32 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>profile</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+  <ion-card>
+    <ion-card-header>
+      <img [src]="imagePATH + user?.avatar" />
+    </ion-card-header>
+    <ion-card-content>
+      <h1>{{ user?.name }}</h1>
+      <h3 class="mt_20">{{ user?.email }}</h3>
+      <button ion-button block padding color="primary"class="mt_20" *ngIf="mine" (tap)="editProfile(user)"> Edit Profile</button>
+      <div class="btn_group mt_20">
+        <button ion-button block color="light" class="h_40" (tap)="goInfoUser()">ATTEND / CREATED EVENTS</button>
+      </div>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card class="mt_20 mb_20">
+    <agm-map [latitude]="lat" [longitude]="lng" [zoom]="zoom" class="map_size_medium">
+      <agm-marker [latitude]="lat" [longitude]="lng"></agm-marker>
+    </agm-map>
+  </ion-card>
+
+</ion-content>
