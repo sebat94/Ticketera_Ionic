@@ -1,0 +1,95 @@
+<!-- SEGMENTS -->
+<ion-segment [(ngModel)]="authentication">
+  <ion-segment-button value="login">Login</ion-segment-button>
+  <ion-segment-button value="register">Register</ion-segment-button>
+</ion-segment>
+
+
+<div [ngSwitch]="authentication">
+
+  <!-- LOGIN -->
+  <div class="login_wrapper" *ngSwitchCase="'login'">
+    <h5>Login</h5>
+
+    <form #formLog="ngForm">
+      <ion-list no-lines>
+        <ion-item>
+          <ion-label>
+            <ion-icon name="ios-person-outline"></ion-icon>
+          </ion-label>
+          <ion-input type="email" placeholder="Email" name="email" [(ngModel)]="user.email" required></ion-input>
+        </ion-item>
+
+        <ion-item>
+          <ion-label>
+            <ion-icon name="ios-lock-outline"></ion-icon>
+          </ion-label>
+          <ion-input type="password" placeholder="Password" name="password" [(ngModel)]="user.password" required></ion-input>
+        </ion-item>
+      </ion-list>
+
+      <div class="footer_login">
+        <div class="rescue_password">
+          <a href="#">Forgotten password?</a>
+        </div>
+        <div class="login_button">
+          <button ion-button color="pink" outline round (tap)="login()"><span *ngIf="!showSpinner">Sign In</span><ion-spinner name="crescent" *ngIf="showSpinner"></ion-spinner></button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <!-- REGISTER -->
+  <div class="register_wrapper" *ngSwitchCase="'register'">
+    <h5>Crear una cuenta</h5>
+
+    <form #formReg="ngForm">
+      <ion-list no-lines>
+        <ion-item>
+          <ion-label>
+            <ion-icon name="ios-person-outline"></ion-icon>
+          </ion-label>
+          <ion-input type="email" placeholder="Email" name="email" [(ngModel)]="newUser.email" required></ion-input>
+        </ion-item>
+
+        <ion-item>
+          <ion-label>
+            <ion-icon name="ios-lock-outline"></ion-icon>
+          </ion-label>
+          <ion-input type="password" placeholder="Password" name="password" [(ngModel)]="newUser.password" required></ion-input>
+        </ion-item>
+
+        <ion-item>
+          <ion-label>
+            <ion-icon name="ios-lock-outline"></ion-icon>
+          </ion-label>
+          <ion-input type="password" placeholder=" Repeat password" name="repeatPassword" [(ngModel)]="newUser.repeatPassword" required></ion-input>
+        </ion-item>
+      </ion-list>
+
+      <div>
+        <ion-list radio-group [(ngModel)]="userType" name="userType">
+          <ion-item>
+            <ion-label style="color:rgba(255,255,255,0.5);">Normal</ion-label>
+            <ion-radio value="normal" checked></ion-radio>
+          </ion-item>
+          <ion-item>
+            <ion-label style="color:rgba(255,255,255,0.5);">Relaciones públicas</ion-label>
+            <ion-radio value="rrpp"></ion-radio>
+          </ion-item>
+          <ion-item>
+            <ion-label style="color:rgba(255,255,255,0.5);">Promotor</ion-label>
+            <ion-radio value="promotor"></ion-radio>
+          </ion-item>
+        </ion-list>
+      </div>
+
+      <div class="footer_register">
+        <div class="register_button">
+          <button ion-button color="pink" outline round (tap)="register()"><span *ngIf="!showSpinner">Sign Up</span><ion-spinner name="crescent" *ngIf="showSpinner"></ion-spinner></button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+</div><!-- ngSwitch -->

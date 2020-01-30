@@ -1,0 +1,40 @@
+<ion-content padding>
+
+    <ion-list class="mb_40">
+      <ion-list-header class="fs_22 text_grey">Nombre evento</ion-list-header>
+      <ion-item class="text_grey">
+        <ion-icon item-start name="list-box" role="img" aria-label="person"></ion-icon>
+        <ion-input type="text" placeholder="Nombre" [(ngModel)]="event.name"></ion-input>
+      </ion-item>
+    </ion-list>
+
+    <ion-list class="mb_40">
+      <ion-list-header class="fs_22 text_grey">Fecha inicio</ion-list-header>
+      <ion-item>
+        <ion-icon item-start class="text_grey" name="calendar" role="img" aria-label="calendar"></ion-icon>
+        <ion-datetime class="text_grey text_right" displayFormat="DD-MM-YYYY HH:mm" pickerFormat="DD MMMM YYYY HH mm" [min]="today" max="2020"
+                      name="birthdate" [(ngModel)]="event.date" [placeholder]="'DD / MM / YYYY hh:mm'">
+        </ion-datetime>
+      </ion-item>
+    </ion-list>
+
+    <ion-list class="mb_40">
+        <ion-list-header class="fs_22 text_grey">Fecha fin</ion-list-header>
+        <ion-item>
+          <ion-icon item-start class="text_grey" name="calendar" role="img" aria-label="calendar"></ion-icon>
+          <ion-datetime class="text_grey text_right" displayFormat="DD-MM-YYYY HH:mm" pickerFormat="DD MMMM YYYY HH mm" [min]="today" max="2020"
+                        name="birthdate" [(ngModel)]="event.dateFinish" [placeholder]="'DD / MM / YYYY hh:mm'">
+          </ion-datetime>
+        </ion-item>
+      </ion-list>
+
+    <div class="btn_camera fs_20 mb_40">
+      <button ion-button color="dark" (click)="takePhoto()"><ion-icon name="camera"></ion-icon></button>
+      <button ion-button color="pink" (click)="pickFromGallery()"><ion-icon name="albums"></ion-icon></button>
+    </div>
+  
+    <button class="btn_create_company" color="pink" ion-button full (tap)="createEvent()">Crear evento</button>
+    <button class="btn_create_company" color="dark" ion-button full (tap)="cancelCreateEvent()">Volver</button>
+  
+  </ion-content>
+  

@@ -1,0 +1,16 @@
+<ion-content padding>
+
+  <ion-list>
+    <ion-item *ngFor="let building of buildings; index as i">
+      <ion-thumbnail item-start>
+        <img [src]="building.image">
+      </ion-thumbnail>
+      <h2>{{ building.name }}</h2>
+      <p>{{ building.type }}</p>
+
+      <button ion-button clear item-end color="pink" *ngIf="buildingsWhereIWork[i] == -1" (tap)="sendRrppRequest(building.id)">Enviar solicitud</button>
+
+    </ion-item>
+  </ion-list>
+
+</ion-content>

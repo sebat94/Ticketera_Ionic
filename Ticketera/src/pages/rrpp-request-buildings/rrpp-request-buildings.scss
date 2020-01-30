@@ -1,0 +1,36 @@
+page-rrpp-request-buildings {
+
+    ion-content.content-md{
+        @include background-color();
+    }
+
+    .list-md{
+        margin:16px 0;
+    }
+
+    .list-md .item-block .item-inner{
+        border-bottom:0;
+    }
+    // ROW
+    .item-md{
+        background-color:rgba(255, 255, 255, 0.1);
+        margin-bottom:16px;
+        height:96px;
+    }
+    ion-label{
+        white-space:normal;
+    }
+    .item-md h2,
+    .item-md p{
+        color:$white-1;
+    }
+    
+    // BTN SEND REQUEST
+    .item-md .item-button{
+        max-width: 80px;
+    }
+    ion-item .item-inner button{
+        white-space:normal;
+    }
+
+}

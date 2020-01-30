@@ -1,0 +1,29 @@
+<ion-content padding>
+
+    <h1>Entradas para {{ eventFull.event.name }} - {{ eventFull.event.building.name }}</h1>
+
+    <ion-list radio-group [(ngModel)]="ticketSold.typeticket">
+      <ion-list-header>Tipo de entrada</ion-list-header>
+      <ion-item *ngFor="let typeticket of eventFull.typetickets">
+        <ion-label>{{ typeticket.name }} - {{ typeticket.price }}</ion-label>
+        <ion-radio value="{{ typeticket.id }}"></ion-radio>
+      </ion-item>
+    </ion-list>
+
+    <ion-list>
+      <ion-list-header>Datos del comprador</ion-list-header>
+      <ion-item>
+        <ion-label stacked>Email</ion-label>
+        <ion-input type="email" [(ngModel)]="ticketSold.userBuyer"></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label stacked>DNI</ion-label>
+        <ion-input type="text" [(ngModel)]="ticketSold.dni"></ion-input>
+      </ion-item>
+    </ion-list>
+
+    <button class="btn_sell_ticket" color="pink" ion-button full (tap)="sellTicket()">Vender ticket</button>
+
+    <button class="btn_sell_ticket" color="dark" ion-button full (tap)="cancelSellTicket()">Cancelar venta</button>
+
+</ion-content>

@@ -1,0 +1,22 @@
+page-rrpp-events-building {
+
+    ion-content.content-md{
+        @include background-color();
+    }
+
+    .list-md{
+        margin:16px 0;
+    }
+    ion-item.item-md{
+        background-color:rgba(255, 255, 255, 0.1);
+        margin-bottom:16px;
+    }
+    .list-md .item-block .item-inner{
+        border:none;
+    }
+    .item-md,
+    .item-md h2{
+        color:$white-1;
+    }
+ 
+}

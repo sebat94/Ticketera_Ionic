@@ -1,0 +1,25 @@
+page-modal-create-typeticket {
+    
+    ion-content.content-md{
+        @include background-color();
+    }
+
+    ion-list{
+        @include border-radius(3px);
+        background-color:rgba(255, 255, 255, 0.1);
+    }
+    ion-list-header.list-header-md{
+        border-top:0;
+        margin-bottom:0;
+        border-bottom:1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .item-md{
+        background:none;
+    }
+    .list-md .item-block .item-inner,
+    .item-md.item-block .item-inner{
+        border-bottom:none;
+    }
+
+}

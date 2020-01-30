@@ -1,0 +1,9 @@
+
+<ion-content class="card-background-page">
+
+  <ion-card class="card" *ngFor="let building of buildings" (tap)="showEventsOfBuilding(building)">
+    <img [src]="building.image" />
+    <div class="card-title">{{ building.name }}</div>
+  </ion-card>
+
+</ion-content>

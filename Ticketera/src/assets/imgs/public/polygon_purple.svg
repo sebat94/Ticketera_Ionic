@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="216px" height="151.2px" viewBox="0 0 216 151.2" enable-background="new 0 0 216 151.2"
+	 xml:space="preserve">
+<g>
+	<rect fill="#412560" width="216" height="151.199"/>
+	<g  a:adobe-blending-mode="hardLight">
+		
+			<linearGradient id="triangle36_1_" gradientUnits="userSpaceOnUse" x1="-102.9395" y1="277.6621" x2="-102.8835" y2="277.6061" gradientTransform="matrix(237 0 0 -1009 24560 280178)">
+			<stop  offset="0" style="stop-color:#A74257"/>
+			<stop  offset="1" style="stop-color:#9F3C51"/>
+			<a:midPointStop  offset="0" style="stop-color:#A74257"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#A74257"/>
+			<a:midPointStop  offset="1" style="stop-color:#9F3C51"/>
+		</linearGradient>
+		<polygon id="triangle36_142_" fill="url(#triangle36_1_)"  a:adobe-blending-mode="normal" points="164.422,59.181 169.856,9.517 
+			179.939,54.753 		"/>
+		
+			<linearGradient id="triangle36_2_" gradientUnits="userSpaceOnUse" x1="-97.812" y1="280.9238" x2="-97.756" y2="280.8679" gradientTransform="matrix(447 0 0 -371 43907 104267.25)">
+			<stop  offset="0" style="stop-color:#7F203C"/>
+			<stop  offset="1" style="stop-color:#872741"/>
+			<a:midPointStop  offset="0" style="stop-color:#7F203C"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#7F203C"/>
+			<a:midPointStop  offset="1" style="stop-color:#872741"/>
+		</linearGradient>
+		<polygon id="triangle36_141_" fill="url(#triangle36_2_)"  a:adobe-blending-mode="normal" points="194.869,67.895 
+			209.209,49.633 179.939,54.753 		"/>
+		
+			<linearGradient id="triangle36_3_" gradientUnits="userSpaceOnUse" x1="-92.8955" y1="282.96" x2="-92.8361" y2="282.9005" gradientTransform="matrix(806 0 0 -307 74948 86938.25)">
+			<stop  offset="0" style="stop-color:#EB7183"/>
+			<stop  offset="1" style="stop-color:#F87E8B"/>
+			<a:midPointStop  offset="0" style="stop-color:#EB7183"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#EB7183"/>
+			<a:midPointStop  offset="1" style="stop-color:#F87E8B"/>
+		</linearGradient>
+		<polygon id="triangle36_140_" fill="url(#triangle36_3_)"  a:adobe-blending-mode="normal" points="73.409,84.384 126.184,75.229 
+			91.545,69.273 		"/>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-92.2944" y1="277.0391" x2="-92.2325" y2="276.9771" gradientTransform="matrix(682 0 0 -664 62965 183931)">
+			<stop  offset="0" style="stop-color:#CA7088"/>
+			<stop  offset="1" style="stop-color:#F49EB3"/>
+			<a:midPointStop  offset="0" style="stop-color:#CA7088"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#CA7088"/>
+			<a:midPointStop  offset="1" style="stop-color:#F49EB3"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_1_)"  a:adobe-blending-mode="normal" points="29.534,0 27.64,4.84 72.295,8.581 63.545,0 		"/>
+		
+			<linearGradient id="triangle36_4_" gradientUnits="userSpaceOnUse" x1="-92.2773" y1="278.2676" x2="-92.2209" y2="278.2112" gradientTransform="matrix(682 0 0 -464 62965 129118)">
+			<stop  offset="0" style="stop-color:#F08EA5"/>
+			<stop  offset="1" style="stop-color:#F9A0B5"/>
+			<a:midPointStop  offset="0" style="stop-color:#F08EA5"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#F08EA5"/>
+			<a:midPointStop  offset="1" style="stop-color:#F9A0B5"/>
+		</linearGradient>
+		<polygon id="triangle36_139_" fill="url(#triangle36_4_)"  a:adobe-blending-mode="normal" points="41.194,27.68 72.295,8.581 
+			27.64,4.84 		"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-91.4917" y1="277.0469" x2="-91.4338" y2="276.989" gradientTransform="matrix(727 0 0 -588 66506 162878)">
+			<stop  offset="0" style="stop-color:#D1788C"/>
+			<stop  offset="1" style="stop-color:#C46881"/>
+			<a:midPointStop  offset="0" style="stop-color:#D1788C"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D1788C"/>
+			<a:midPointStop  offset="1" style="stop-color:#C46881"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_2_)"  a:adobe-blending-mode="normal" points="18.516,0 27.64,4.84 29.534,0 		"/>
+		
+			<linearGradient id="triangle36_5_" gradientUnits="userSpaceOnUse" x1="-100.3843" y1="277.8975" x2="-100.3203" y2="277.8335" gradientTransform="matrix(214 0 0 -662 21590 183971)">
+			<stop  offset="0" style="stop-color:#FFCFDA"/>
+			<stop  offset="1" style="stop-color:#FFD9EB"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFCFDA"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFCFDA"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFD9EB"/>
+		</linearGradient>
+		<polygon id="triangle36_138_" fill="url(#triangle36_5_)"  a:adobe-blending-mode="normal" points="106.999,37.722 121.01,7.744 
+			110.271,5.135 		"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-98.4043" y1="279.9004" x2="-98.3497" y2="279.8458" gradientTransform="matrix(455 0 0 -883 44976 247261)">
+			<stop  offset="0" style="stop-color:#D97D8C"/>
+			<stop  offset="1" style="stop-color:#FFC3C8"/>
+			<a:midPointStop  offset="0" style="stop-color:#D97D8C"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D97D8C"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFC3C8"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_3_)"  a:adobe-blending-mode="normal" points="216,123.351 202.27,107.175 216,148.049 		"/>
+		
+			<linearGradient id="triangle36_6_" gradientUnits="userSpaceOnUse" x1="-92.8477" y1="278.8291" x2="-92.7919" y2="278.7733" gradientTransform="matrix(489 0 0 -559 45430 155897)">
+			<stop  offset="0" style="stop-color:#E17190"/>
+			<stop  offset="1" style="stop-color:#F289A0"/>
+			<a:midPointStop  offset="0" style="stop-color:#E17190"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#E17190"/>
+			<a:midPointStop  offset="1" style="stop-color:#F289A0"/>
+		</linearGradient>
+		<polygon id="triangle36_137_" fill="url(#triangle36_6_)"  a:adobe-blending-mode="normal" points="29.408,55.197 41.194,27.68 
+			61.426,53.424 		"/>
+		
+			<linearGradient id="triangle36_7_" gradientUnits="userSpaceOnUse" x1="-100.6284" y1="283.5459" x2="-100.5711" y2="283.4886" gradientTransform="matrix(141 0 0 -233 14251 66118)">
+			<stop  offset="0" style="stop-color:#F18A9A"/>
+			<stop  offset="1" style="stop-color:#F28A9A"/>
+			<a:midPointStop  offset="0" style="stop-color:#F18A9A"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#F18A9A"/>
+			<a:midPointStop  offset="1" style="stop-color:#F28A9A"/>
+		</linearGradient>
+		<polygon id="triangle36_136_" fill="url(#triangle36_7_)"  a:adobe-blending-mode="normal" points="70.528,61.596 70.657,64.893 
+			61.426,53.424 		"/>
+		
+			<linearGradient id="triangle36_8_" gradientUnits="userSpaceOnUse" x1="-92.5347" y1="287.0967" x2="-92.4633" y2="287.0253" gradientTransform="matrix(550 0 0 -151 50920 43404)">
+			<stop  offset="0" style="stop-color:#D56485"/>
+			<stop  offset="1" style="stop-color:#D96C88"/>
+			<a:midPointStop  offset="0" style="stop-color:#D56485"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D56485"/>
+			<a:midPointStop  offset="1" style="stop-color:#D96C88"/>
+		</linearGradient>
+		<polygon id="triangle36_135_" fill="url(#triangle36_8_)"  a:adobe-blending-mode="normal" points="29.408,55.197 61.426,53.424 
+			25.414,60.855 		"/>
+		
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-91.2456" y1="290.5625" x2="-91.1909" y2="290.5078" gradientTransform="matrix(750 0 0 -115 68430 33468)">
+			<stop  offset="0" style="stop-color:#A83B5C"/>
+			<stop  offset="1" style="stop-color:#C25173"/>
+			<a:midPointStop  offset="0" style="stop-color:#A83B5C"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#A83B5C"/>
+			<a:midPointStop  offset="1" style="stop-color:#C25173"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_4_)"  a:adobe-blending-mode="normal" points="0,55.197 0,57.667 25.414,60.855 29.408,55.197 		"/>
+		
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-93.6221" y1="276.8057" x2="-93.5585" y2="276.7421" gradientTransform="matrix(580 0 0 -869 54366 240511)">
+			<stop  offset="0" style="stop-color:#FFDEF2"/>
+			<stop  offset="1" style="stop-color:#FCAAC3"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFDEF2"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFDEF2"/>
+			<a:midPointStop  offset="1" style="stop-color:#FCAAC3"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_5_)"  a:adobe-blending-mode="normal" points="75.382,0 72.295,8.581 110.271,5.135 107.322,0 		"/>
+		
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-98.3667" y1="276.9102" x2="-98.3012" y2="276.8447" gradientTransform="matrix(377 0 0 -787 37240.75 217898)">
+			<stop  offset="0" style="stop-color:#932942"/>
+			<stop  offset="1" style="stop-color:#952E46"/>
+			<a:midPointStop  offset="0" style="stop-color:#932942"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#932942"/>
+			<a:midPointStop  offset="1" style="stop-color:#952E46"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_6_)"  a:adobe-blending-mode="normal" points="167.572,0 169.856,9.517 176.133,0 		"/>
+		
+			<linearGradient id="triangle36_9_" gradientUnits="userSpaceOnUse" x1="-92.5239" y1="279.5273" x2="-92.4668" y2="279.4702" gradientTransform="matrix(550 0 0 -606 50920 169439)">
+			<stop  offset="0" style="stop-color:#BD5573"/>
+			<stop  offset="1" style="stop-color:#C6637C"/>
+			<a:midPointStop  offset="0" style="stop-color:#BD5573"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#BD5573"/>
+			<a:midPointStop  offset="1" style="stop-color:#C6637C"/>
+		</linearGradient>
+		<polygon id="triangle36_134_" fill="url(#triangle36_9_)"  a:adobe-blending-mode="normal" points="25.414,60.855 61.426,53.424 
+			51.277,83.253 		"/>
+		
+			<linearGradient id="triangle36_10_" gradientUnits="userSpaceOnUse" x1="-95.0991" y1="279.5107" x2="-95.0409" y2="279.4525" gradientTransform="matrix(296 0 0 -606 28200.75 169439)">
+			<stop  offset="0" style="stop-color:#E78093"/>
+			<stop  offset="1" style="stop-color:#C9657B"/>
+			<a:midPointStop  offset="0" style="stop-color:#E78093"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#E78093"/>
+			<a:midPointStop  offset="1" style="stop-color:#C9657B"/>
+		</linearGradient>
+		<polygon id="triangle36_133_" fill="url(#triangle36_10_)"  a:adobe-blending-mode="normal" points="61.426,53.424 70.657,64.893 
+			51.277,83.253 		"/>
+		
+			<linearGradient id="triangle36_11_" gradientUnits="userSpaceOnUse" x1="-94.5923" y1="281.4131" x2="-94.5315" y2="281.3523" gradientTransform="matrix(338 0 0 -396 32022.75 111502.25)">
+			<stop  offset="0" style="stop-color:#DB7184"/>
+			<stop  offset="1" style="stop-color:#BC556B"/>
+			<a:midPointStop  offset="0" style="stop-color:#DB7184"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#DB7184"/>
+			<a:midPointStop  offset="1" style="stop-color:#BC556B"/>
+		</linearGradient>
+		<polygon id="triangle36_132_" fill="url(#triangle36_11_)"  a:adobe-blending-mode="normal" points="70.657,64.893 73.409,84.384 
+			51.277,83.253 		"/>
+		
+			<linearGradient id="triangle36_12_" gradientUnits="userSpaceOnUse" x1="-94.502" y1="280.5215" x2="-94.4446" y2="280.4641" gradientTransform="matrix(345 0 0 -599 32659.75 168106)">
+			<stop  offset="0" style="stop-color:#C4556B"/>
+			<stop  offset="1" style="stop-color:#A33C58"/>
+			<a:midPointStop  offset="0" style="stop-color:#C4556B"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#C4556B"/>
+			<a:midPointStop  offset="1" style="stop-color:#A33C58"/>
+		</linearGradient>
+		<polygon id="triangle36_131_" fill="url(#triangle36_12_)"  a:adobe-blending-mode="normal" points="73.409,84.384 
+			73.867,112.738 51.277,83.253 		"/>
+		
+			<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="-90.938" y1="285.7266" x2="-90.8799" y2="285.6685" gradientTransform="matrix(2082 0 0 -349 189294 99850.25)">
+			<stop  offset="0" style="stop-color:#D76F82"/>
+			<stop  offset="1" style="stop-color:#A23D5A"/>
+			<a:midPointStop  offset="0" style="stop-color:#D76F82"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D76F82"/>
+			<a:midPointStop  offset="1" style="stop-color:#A23D5A"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_7_)"  a:adobe-blending-mode="normal" points="0,134.664 0,147.874 93.903,144.585 		"/>
+		
+			<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="-95.2153" y1="276.9111" x2="-95.1527" y2="276.8485" gradientTransform="matrix(490 0 0 -739 46756 204614)">
+			<stop  offset="0" style="stop-color:#FFCFE3"/>
+			<stop  offset="1" style="stop-color:#EA92A7"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFCFE3"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFCFE3"/>
+			<a:midPointStop  offset="1" style="stop-color:#EA92A7"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_8_)"  a:adobe-blending-mode="normal" points="115.15,0 110.271,5.135 121.01,7.744 125.555,0 		"/>
+		
+			<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="-93.9712" y1="276.9199" x2="-93.9092" y2="276.858" gradientTransform="matrix(746 0 0 -775 70215 214586)">
+			<stop  offset="0" style="stop-color:#F29DB0"/>
+			<stop  offset="1" style="stop-color:#AD4C63"/>
+			<a:midPointStop  offset="0" style="stop-color:#F29DB0"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#F29DB0"/>
+			<a:midPointStop  offset="1" style="stop-color:#AD4C63"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_9_)"  a:adobe-blending-mode="normal" points="125.555,0 121.01,7.744 169.856,9.517 162.996,0 		"/>
+		
+			<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="-96.9766" y1="276.917" x2="-96.9191" y2="276.8595" gradientTransform="matrix(420 0 0 -787 40875.75 217898)">
+			<stop  offset="0" style="stop-color:#973049"/>
+			<stop  offset="1" style="stop-color:#9E3A52"/>
+			<a:midPointStop  offset="0" style="stop-color:#973049"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#973049"/>
+			<a:midPointStop  offset="1" style="stop-color:#9E3A52"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_10_)"  a:adobe-blending-mode="normal" points="162.996,0 169.856,9.517 167.572,0 		"/>
+		
+			<linearGradient id="triangle36_13_" gradientUnits="userSpaceOnUse" x1="-103.9463" y1="294.3311" x2="-103.889" y2="294.2737" gradientTransform="matrix(115 0 0 -97 12024 28612)">
+			<stop  offset="0" style="stop-color:#F28997"/>
+			<stop  offset="1" style="stop-color:#F38795"/>
+			<a:midPointStop  offset="0" style="stop-color:#F28997"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#F28997"/>
+			<a:midPointStop  offset="1" style="stop-color:#F38795"/>
+		</linearGradient>
+		<polygon id="triangle36_130_" fill="url(#triangle36_13_)"  a:adobe-blending-mode="normal" points="70.528,61.596 70.657,64.893 
+			78.058,66.368 		"/>
+		
+			<linearGradient id="triangle36_14_" gradientUnits="userSpaceOnUse" x1="-104.1802" y1="281.417" x2="-104.1265" y2="281.3633" gradientTransform="matrix(113 0 0 -396 11844 111502.25)">
+			<stop  offset="0" style="stop-color:#EA7E8F"/>
+			<stop  offset="1" style="stop-color:#E77786"/>
+			<a:midPointStop  offset="0" style="stop-color:#EA7E8F"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#EA7E8F"/>
+			<a:midPointStop  offset="1" style="stop-color:#E77786"/>
+		</linearGradient>
+		<polygon id="triangle36_129_" fill="url(#triangle36_14_)"  a:adobe-blending-mode="normal" points="70.657,64.893 73.409,84.384 
+			78.058,66.368 		"/>
+		
+			<linearGradient id="triangle36_15_" gradientUnits="userSpaceOnUse" x1="-96.519" y1="281.8486" x2="-96.4565" y2="281.7861" gradientTransform="matrix(277 0 0 -366 26810 103222.25)">
+			<stop  offset="0" style="stop-color:#E57082"/>
+			<stop  offset="1" style="stop-color:#FB8895"/>
+			<a:midPointStop  offset="0" style="stop-color:#E57082"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#E57082"/>
+			<a:midPointStop  offset="1" style="stop-color:#FB8895"/>
+		</linearGradient>
+		<polygon id="triangle36_128_" fill="url(#triangle36_15_)"  a:adobe-blending-mode="normal" points="73.409,84.384 91.545,69.273 
+			78.058,66.368 		"/>
+		
+			<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="-94.2109" y1="276.7236" x2="-94.1553" y2="276.6679" gradientTransform="matrix(540 0 0 -876 50961 242373)">
+			<stop  offset="0" style="stop-color:#BB6482"/>
+			<stop  offset="1" style="stop-color:#DA829E"/>
+			<a:midPointStop  offset="0" style="stop-color:#BB6482"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#BB6482"/>
+			<a:midPointStop  offset="1" style="stop-color:#DA829E"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_11_)"  a:adobe-blending-mode="normal" points="107.322,0 110.271,5.135 111.791,0 		"/>
+		
+			<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="-95.2231" y1="276.71" x2="-95.1578" y2="276.6446" gradientTransform="matrix(490 0 0 -876 46756 242373)">
+			<stop  offset="0" style="stop-color:#FFB2C8"/>
+			<stop  offset="1" style="stop-color:#A1425F"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFB2C8"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFB2C8"/>
+			<a:midPointStop  offset="1" style="stop-color:#A1425F"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_12_)"  a:adobe-blending-mode="normal" points="111.791,0 110.271,5.135 115.15,0 		"/>
+		
+			<linearGradient id="triangle36_16_" gradientUnits="userSpaceOnUse" x1="-97.4297" y1="281.207" x2="-97.3705" y2="281.1479" gradientTransform="matrix(355 0 0 -377 34713.75 106072.25)">
+			<stop  offset="0" style="stop-color:#DB6877"/>
+			<stop  offset="1" style="stop-color:#D06676"/>
+			<a:midPointStop  offset="0" style="stop-color:#DB6877"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#DB6877"/>
+			<a:midPointStop  offset="1" style="stop-color:#D06676"/>
+		</linearGradient>
+		<polygon id="triangle36_127_" fill="url(#triangle36_16_)"  a:adobe-blending-mode="normal" points="126.184,75.229 
+			133.058,56.673 149.428,64.893 		"/>
+		
+			<linearGradient id="triangle36_17_" gradientUnits="userSpaceOnUse" x1="-95.9609" y1="286.5078" x2="-95.9062" y2="286.453" gradientTransform="matrix(479 0 0 -167 46103 47902)">
+			<stop  offset="0" style="stop-color:#D16A7A"/>
+			<stop  offset="1" style="stop-color:#B64D62"/>
+			<a:midPointStop  offset="0" style="stop-color:#D16A7A"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D16A7A"/>
+			<a:midPointStop  offset="1" style="stop-color:#B64D62"/>
+		</linearGradient>
+		<polygon id="triangle36_126_" fill="url(#triangle36_17_)"  a:adobe-blending-mode="normal" points="133.058,56.673 
+			164.422,59.181 149.428,64.893 		"/>
+		
+			<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="-95.8169" y1="283.9971" x2="-95.7565" y2="283.9367" gradientTransform="matrix(473 0 0 -461 45456 131057)">
+			<stop  offset="0" style="stop-color:#BD5D69"/>
+			<stop  offset="1" style="stop-color:#BA5C6A"/>
+			<a:midPointStop  offset="0" style="stop-color:#BD5D69"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#BD5D69"/>
+			<a:midPointStop  offset="1" style="stop-color:#BA5C6A"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_13_)"  a:adobe-blending-mode="normal" points="150.19,151.2 157.416,147.341 152.047,141.188 
+			140.753,151.2 		"/>
+		
+			<linearGradient id="triangle36_18_" gradientUnits="userSpaceOnUse" x1="-93.7905" y1="287.8047" x2="-93.7348" y2="287.7489" gradientTransform="matrix(532 0 0 -151 49971 43516)">
+			<stop  offset="0" style="stop-color:#FA919E"/>
+			<stop  offset="1" style="stop-color:#FF96A0"/>
+			<a:midPointStop  offset="0" style="stop-color:#FA919E"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FA919E"/>
+			<a:midPointStop  offset="1" style="stop-color:#FF96A0"/>
+		</linearGradient>
+		<polygon id="triangle36_125_" fill="url(#triangle36_18_)"  a:adobe-blending-mode="normal" points="70.528,61.596 78.058,66.368 
+			105.361,58.936 		"/>
+		
+			<linearGradient id="triangle36_19_" gradientUnits="userSpaceOnUse" x1="-93.6772" y1="279.5293" x2="-93.6096" y2="279.4617" gradientTransform="matrix(557 0 0 -485 52246 135603)">
+			<stop  offset="0" style="stop-color:#FE9CA6"/>
+			<stop  offset="1" style="stop-color:#FFB1B7"/>
+			<a:midPointStop  offset="0" style="stop-color:#FE9CA6"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FE9CA6"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFB1B7"/>
+		</linearGradient>
+		<polygon id="triangle36_124_" fill="url(#triangle36_19_)"  a:adobe-blending-mode="normal" points="70.528,61.596 
+			106.999,37.722 105.361,58.936 		"/>
+		
+			<linearGradient id="triangle36_20_" gradientUnits="userSpaceOnUse" x1="-94.8228" y1="284.7744" x2="-94.7632" y2="284.7148" gradientTransform="matrix(417 0 0 -210 39620.75 59859)">
+			<stop  offset="0" style="stop-color:#FF919B"/>
+			<stop  offset="1" style="stop-color:#FF97A1"/>
+			<a:midPointStop  offset="0" style="stop-color:#FF919B"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FF919B"/>
+			<a:midPointStop  offset="1" style="stop-color:#FF97A1"/>
+		</linearGradient>
+		<polygon id="triangle36_123_" fill="url(#triangle36_20_)"  a:adobe-blending-mode="normal" points="78.058,66.368 91.545,69.273 
+			105.361,58.936 		"/>
+		
+			<linearGradient id="triangle36_21_" gradientUnits="userSpaceOnUse" x1="-94.3799" y1="281.9229" x2="-94.3246" y2="281.8676" gradientTransform="matrix(529 0 0 -331 50019 93376.25)">
+			<stop  offset="0" style="stop-color:#FF8F99"/>
+			<stop  offset="1" style="stop-color:#F88893"/>
+			<a:midPointStop  offset="0" style="stop-color:#FF8F99"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FF8F99"/>
+			<a:midPointStop  offset="1" style="stop-color:#F88893"/>
+		</linearGradient>
+		<polygon id="triangle36_122_" fill="url(#triangle36_21_)"  a:adobe-blending-mode="normal" points="91.545,69.273 
+			126.184,75.229 105.361,58.936 		"/>
+		
+			<linearGradient id="triangle36_22_" gradientUnits="userSpaceOnUse" x1="-95.7002" y1="279.8252" x2="-95.6426" y2="279.7676" gradientTransform="matrix(423 0 0 -431 40584 120645.5)">
+			<stop  offset="0" style="stop-color:#FFB3BA"/>
+			<stop  offset="1" style="stop-color:#F8959E"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFB3BA"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFB3BA"/>
+			<a:midPointStop  offset="1" style="stop-color:#F8959E"/>
+		</linearGradient>
+		<polygon id="triangle36_121_" fill="url(#triangle36_22_)"  a:adobe-blending-mode="normal" points="106.999,37.722 
+			133.058,56.673 105.361,58.936 		"/>
+		
+			<linearGradient id="triangle36_23_" gradientUnits="userSpaceOnUse" x1="-95.6797" y1="281.2236" x2="-95.623" y2="281.1669" gradientTransform="matrix(423 0 0 -377 40584 106072.25)">
+			<stop  offset="0" style="stop-color:#E77584"/>
+			<stop  offset="1" style="stop-color:#F28B95"/>
+			<a:midPointStop  offset="0" style="stop-color:#E77584"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#E77584"/>
+			<a:midPointStop  offset="1" style="stop-color:#F28B95"/>
+		</linearGradient>
+		<polygon id="triangle36_120_" fill="url(#triangle36_23_)"  a:adobe-blending-mode="normal" points="126.184,75.229 
+			133.058,56.673 105.361,58.936 		"/>
+		
+			<linearGradient id="triangle36_24_" gradientUnits="userSpaceOnUse" x1="-130.7827" y1="283.3281" x2="-130.7254" y2="283.2708" gradientTransform="matrix(82 0 0 -285 10919 80816.25)">
+			<stop  offset="0" style="stop-color:#741635"/>
+			<stop  offset="1" style="stop-color:#721435"/>
+			<a:midPointStop  offset="0" style="stop-color:#741635"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#741635"/>
+			<a:midPointStop  offset="1" style="stop-color:#721435"/>
+		</linearGradient>
+		<polygon id="triangle36_119_" fill="url(#triangle36_24_)"  a:adobe-blending-mode="normal" points="194.805,72.619 
+			194.869,67.895 200.172,81.924 		"/>
+		
+			<linearGradient id="triangle36_25_" gradientUnits="userSpaceOnUse" x1="-105.8931" y1="279.2236" x2="-105.8364" y2="279.167" gradientTransform="matrix(219 0 0 -656 23387 183213)">
+			<stop  offset="0" style="stop-color:#771936"/>
+			<stop  offset="1" style="stop-color:#731534"/>
+			<a:midPointStop  offset="0" style="stop-color:#771936"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#771936"/>
+			<a:midPointStop  offset="1" style="stop-color:#731534"/>
+		</linearGradient>
+		<polygon id="triangle36_118_" fill="url(#triangle36_25_)"  a:adobe-blending-mode="normal" points="194.869,67.895 
+			209.209,49.633 200.172,81.924 		"/>
+		
+			<linearGradient id="triangle36_26_" gradientUnits="userSpaceOnUse" x1="-120.1416" y1="281.0439" x2="-120.0846" y2="280.987" gradientTransform="matrix(112 0 0 -513 13651 144257)">
+			<stop  offset="0" style="stop-color:#842543"/>
+			<stop  offset="1" style="stop-color:#812341"/>
+			<a:midPointStop  offset="0" style="stop-color:#842543"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#842543"/>
+			<a:midPointStop  offset="1" style="stop-color:#812341"/>
+		</linearGradient>
+		<polygon id="triangle36_117_" fill="url(#triangle36_26_)"  a:adobe-blending-mode="normal" points="194.936,103.188 
+			202.27,107.175 200.172,81.924 		"/>
+		
+			<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="-97.8579" y1="278.6885" x2="-97.8019" y2="278.6324" gradientTransform="matrix(487 0 0 -1226 47856 341758)">
+			<stop  offset="0" style="stop-color:#AA4D66"/>
+			<stop  offset="1" style="stop-color:#BE647B"/>
+			<a:midPointStop  offset="0" style="stop-color:#AA4D66"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#AA4D66"/>
+			<a:midPointStop  offset="1" style="stop-color:#BE647B"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_14_)"  a:adobe-blending-mode="normal" points="216,111.879 200.172,81.924 202.27,107.175 216,123.351 
+					"/>
+		
+			<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="-97.8545" y1="277.7773" x2="-97.7998" y2="277.7226" gradientTransform="matrix(487 0 0 -1882 47856 522826)">
+			<stop  offset="0" style="stop-color:#6D1232"/>
+			<stop  offset="1" style="stop-color:#A14762"/>
+			<a:midPointStop  offset="0" style="stop-color:#6D1232"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#6D1232"/>
+			<a:midPointStop  offset="1" style="stop-color:#A14762"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_15_)"  a:adobe-blending-mode="normal" points="216,77.165 209.209,49.633 200.172,81.924 216,111.879 
+					"/>
+		
+			<linearGradient id="triangle36_27_" gradientUnits="userSpaceOnUse" x1="-92.6113" y1="278.916" x2="-92.5568" y2="278.8615" gradientTransform="matrix(659 0 0 -534 61080 148961)">
+			<stop  offset="0" style="stop-color:#FA98AC"/>
+			<stop  offset="1" style="stop-color:#FFAEBD"/>
+			<a:midPointStop  offset="0" style="stop-color:#FA98AC"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FA98AC"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFAEBD"/>
+		</linearGradient>
+		<polygon id="triangle36_116_" fill="url(#triangle36_27_)"  a:adobe-blending-mode="normal" points="41.194,27.68 61.426,53.424 
+			84.343,27.139 		"/>
+		
+			<linearGradient id="triangle36_28_" gradientUnits="userSpaceOnUse" x1="-92.6201" y1="278.6904" x2="-92.5673" y2="278.6376" gradientTransform="matrix(659 0 0 -388 61080 108142.25)">
+			<stop  offset="0" style="stop-color:#FFA2B7"/>
+			<stop  offset="1" style="stop-color:#FFCCDB"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFA2B7"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFA2B7"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFCCDB"/>
+		</linearGradient>
+		<polygon id="triangle36_115_" fill="url(#triangle36_28_)"  a:adobe-blending-mode="normal" points="41.194,27.68 72.295,8.581 
+			84.343,27.139 		"/>
+		
+			<linearGradient id="triangle36_29_" gradientUnits="userSpaceOnUse" x1="-93.6006" y1="278.3311" x2="-93.5469" y2="278.2774" gradientTransform="matrix(580 0 0 -447 54366 124415)">
+			<stop  offset="0" style="stop-color:#FFE1F4"/>
+			<stop  offset="1" style="stop-color:#FFE5F4"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFE1F4"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFE1F4"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFE5F4"/>
+		</linearGradient>
+		<polygon id="triangle36_114_" fill="url(#triangle36_29_)"  a:adobe-blending-mode="normal" points="72.295,8.581 110.271,5.135 
+			84.343,27.139 		"/>
+		
+			<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="-91.3374" y1="278.2676" x2="-91.2803" y2="278.2105" gradientTransform="matrix(836 0 0 -464 76350 129118)">
+			<stop  offset="0" style="stop-color:#D97990"/>
+			<stop  offset="1" style="stop-color:#DE7B91"/>
+			<a:midPointStop  offset="0" style="stop-color:#D97990"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D97990"/>
+			<a:midPointStop  offset="1" style="stop-color:#DE7B91"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_16_)"  a:adobe-blending-mode="normal" points="0,24.679 41.194,27.68 27.64,4.84 0,17.492 		"/>
+		
+			<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="-91.3281" y1="278.498" x2="-91.2731" y2="278.443" gradientTransform="matrix(836 0 0 -640 76350 178254)">
+			<stop  offset="0" style="stop-color:#D56685"/>
+			<stop  offset="1" style="stop-color:#DD788F"/>
+			<a:midPointStop  offset="0" style="stop-color:#D56685"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D56685"/>
+			<a:midPointStop  offset="1" style="stop-color:#DD788F"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_17_)"  a:adobe-blending-mode="normal" points="0,24.679 0,33.627 29.408,55.197 41.194,27.68 		"/>
+		
+			<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="-91.2681" y1="278.4814" x2="-91.2113" y2="278.4247" gradientTransform="matrix(750 0 0 -640 68430 178254)">
+			<stop  offset="0" style="stop-color:#AA3D5D"/>
+			<stop  offset="1" style="stop-color:#CA5F7C"/>
+			<a:midPointStop  offset="0" style="stop-color:#AA3D5D"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#AA3D5D"/>
+			<a:midPointStop  offset="1" style="stop-color:#CA5F7C"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_18_)"  a:adobe-blending-mode="normal" points="0,33.627 0,55.197 29.408,55.197 		"/>
+		
+			<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="-91.4556" y1="277.2842" x2="-91.3927" y2="277.2213" gradientTransform="matrix(629 0 0 -774 57514 214598)">
+			<stop  offset="0" style="stop-color:#DF8397"/>
+			<stop  offset="1" style="stop-color:#D97B90"/>
+			<a:midPointStop  offset="0" style="stop-color:#DF8397"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#DF8397"/>
+			<a:midPointStop  offset="1" style="stop-color:#D97B90"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_19_)"  a:adobe-blending-mode="normal" points="0,0 0,17.492 27.64,4.84 18.516,0 		"/>
+		
+			<linearGradient id="triangle36_30_" gradientUnits="userSpaceOnUse" x1="-91.835" y1="280.6631" x2="-91.7783" y2="280.6064" gradientTransform="matrix(685 0 0 -455 62914 127763)">
+			<stop  offset="0" style="stop-color:#A64162"/>
+			<stop  offset="1" style="stop-color:#923453"/>
+			<a:midPointStop  offset="0" style="stop-color:#A64162"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#A64162"/>
+			<a:midPointStop  offset="1" style="stop-color:#923453"/>
+		</linearGradient>
+		<polygon id="triangle36_113_" fill="url(#triangle36_30_)"  a:adobe-blending-mode="normal" points="25.414,60.855 51.277,83.253 
+			6.425,72.373 		"/>
+		
+			<linearGradient id="SVGID_20_" gradientUnits="userSpaceOnUse" x1="-90.8203" y1="281.4688" x2="-90.7655" y2="281.4139" gradientTransform="matrix(749 0 0 -349 67989 98286.25)">
+			<stop  offset="0" style="stop-color:#811939"/>
+			<stop  offset="1" style="stop-color:#8E2747"/>
+			<a:midPointStop  offset="0" style="stop-color:#811939"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#811939"/>
+			<a:midPointStop  offset="1" style="stop-color:#8E2747"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_20_)"  a:adobe-blending-mode="normal" points="0,68.148 0,72.251 6.425,72.373 		"/>
+		
+			<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="-91.2769" y1="281.4717" x2="-91.2253" y2="281.4201" gradientTransform="matrix(689 0 0 -349 62879 98286.25)">
+			<stop  offset="0" style="stop-color:#9D3254"/>
+			<stop  offset="1" style="stop-color:#A1395B"/>
+			<a:midPointStop  offset="0" style="stop-color:#9D3254"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#9D3254"/>
+			<a:midPointStop  offset="1" style="stop-color:#A1395B"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_21_)"  a:adobe-blending-mode="normal" points="0,57.667 0,68.148 6.425,72.373 25.414,60.855 		"/>
+		
+			<linearGradient id="triangle36_31_" gradientUnits="userSpaceOnUse" x1="-98.3687" y1="277.7432" x2="-98.3118" y2="277.6863" gradientTransform="matrix(394 0 0 -919 38929.75 255249)">
+			<stop  offset="0" style="stop-color:#9C384D"/>
+			<stop  offset="1" style="stop-color:#963148"/>
+			<a:midPointStop  offset="0" style="stop-color:#9C384D"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#9C384D"/>
+			<a:midPointStop  offset="1" style="stop-color:#963148"/>
+		</linearGradient>
+		<polygon id="triangle36_112_" fill="url(#triangle36_31_)"  a:adobe-blending-mode="normal" points="169.856,9.517 
+			179.939,54.753 195.654,21.971 		"/>
+		
+			<linearGradient id="SVGID_22_" gradientUnits="userSpaceOnUse" x1="-98.3779" y1="277.3135" x2="-98.3177" y2="277.2532" gradientTransform="matrix(394 0 0 -727 38929.75 201591)">
+			<stop  offset="0" style="stop-color:#983349"/>
+			<stop  offset="1" style="stop-color:#8F2841"/>
+			<a:midPointStop  offset="0" style="stop-color:#983349"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#983349"/>
+			<a:midPointStop  offset="1" style="stop-color:#8F2841"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_22_)"  a:adobe-blending-mode="normal" points="176.133,0 169.856,9.517 195.654,21.971 189.263,0 		"/>
+		
+			<linearGradient id="triangle36_32_" gradientUnits="userSpaceOnUse" x1="-97.8228" y1="278.3721" x2="-97.7678" y2="278.3171" gradientTransform="matrix(447 0 0 -666 43907 185421)">
+			<stop  offset="0" style="stop-color:#933046"/>
+			<stop  offset="1" style="stop-color:#87253E"/>
+			<a:midPointStop  offset="0" style="stop-color:#933046"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#933046"/>
+			<a:midPointStop  offset="1" style="stop-color:#87253E"/>
+		</linearGradient>
+		<polygon id="triangle36_111_" fill="url(#triangle36_32_)"  a:adobe-blending-mode="normal" points="179.939,54.753 
+			209.209,49.633 195.654,21.971 		"/>
+		
+			<linearGradient id="SVGID_23_" gradientUnits="userSpaceOnUse" x1="-96.9321" y1="277.3154" x2="-96.8674" y2="277.2507" gradientTransform="matrix(527 0 0 -727 51268 201591)">
+			<stop  offset="0" style="stop-color:#8C223C"/>
+			<stop  offset="1" style="stop-color:#8C233C"/>
+			<a:midPointStop  offset="0" style="stop-color:#8C223C"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#8C223C"/>
+			<a:midPointStop  offset="1" style="stop-color:#8C233C"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_23_)"  a:adobe-blending-mode="normal" points="189.263,0 195.654,21.971 216,1.355 216,0 		"/>
+		
+			<linearGradient id="triangle36_33_" gradientUnits="userSpaceOnUse" x1="-97.3872" y1="280.9287" x2="-97.3286" y2="280.8701" gradientTransform="matrix(409 0 0 -417 39982.75 117203.5)">
+			<stop  offset="0" style="stop-color:#AE435A"/>
+			<stop  offset="1" style="stop-color:#9A324C"/>
+			<a:midPointStop  offset="0" style="stop-color:#AE435A"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#AE435A"/>
+			<a:midPointStop  offset="1" style="stop-color:#9A324C"/>
+		</linearGradient>
+		<polygon id="triangle36_110_" fill="url(#triangle36_33_)"  a:adobe-blending-mode="normal" points="149.428,64.893 
+			164.422,59.181 176.207,79.71 		"/>
+		
+			<linearGradient id="triangle36_34_" gradientUnits="userSpaceOnUse" x1="-96.6494" y1="281.1465" x2="-96.5942" y2="281.0912" gradientTransform="matrix(496 0 0 -489 48099 137564)">
+			<stop  offset="0" style="stop-color:#8F2542"/>
+			<stop  offset="1" style="stop-color:#882341"/>
+			<a:midPointStop  offset="0" style="stop-color:#8F2542"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#8F2542"/>
+			<a:midPointStop  offset="1" style="stop-color:#882341"/>
+		</linearGradient>
+		<polygon id="triangle36_109_" fill="url(#triangle36_34_)"  a:adobe-blending-mode="normal" points="162.457,103.779 
+			194.936,103.188 176.207,79.71 		"/>
+		
+			<linearGradient id="triangle36_35_" gradientUnits="userSpaceOnUse" x1="-102.9219" y1="280.0703" x2="-102.8648" y2="280.0133" gradientTransform="matrix(237 0 0 -507 24560 142043)">
+			<stop  offset="0" style="stop-color:#9F3951"/>
+			<stop  offset="1" style="stop-color:#922C46"/>
+			<a:midPointStop  offset="0" style="stop-color:#9F3951"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#9F3951"/>
+			<a:midPointStop  offset="1" style="stop-color:#922C46"/>
+		</linearGradient>
+		<polygon id="triangle36_108_" fill="url(#triangle36_35_)"  a:adobe-blending-mode="normal" points="164.422,59.181 
+			179.939,54.753 176.207,79.71 		"/>
+		
+			<linearGradient id="triangle36_36_" gradientUnits="userSpaceOnUse" x1="-101.5166" y1="280.0527" x2="-101.4576" y2="279.9937" gradientTransform="matrix(285 0 0 -507 29107.75 142043)">
+			<stop  offset="0" style="stop-color:#912D46"/>
+			<stop  offset="1" style="stop-color:#821F3D"/>
+			<a:midPointStop  offset="0" style="stop-color:#912D46"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#912D46"/>
+			<a:midPointStop  offset="1" style="stop-color:#821F3D"/>
+		</linearGradient>
+		<polygon id="triangle36_107_" fill="url(#triangle36_36_)"  a:adobe-blending-mode="normal" points="179.939,54.753 
+			194.869,67.895 176.207,79.71 		"/>
+		
+			<linearGradient id="triangle36_37_" gradientUnits="userSpaceOnUse" x1="-101.5308" y1="284.5381" x2="-101.4406" y2="284.448" gradientTransform="matrix(285 0 0 -240 29107.75 68351)">
+			<stop  offset="0" style="stop-color:#791A37"/>
+			<stop  offset="1" style="stop-color:#7F1C3B"/>
+			<a:midPointStop  offset="0" style="stop-color:#791A37"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#791A37"/>
+			<a:midPointStop  offset="1" style="stop-color:#7F1C3B"/>
+		</linearGradient>
+		<polygon id="triangle36_106_" fill="url(#triangle36_37_)"  a:adobe-blending-mode="normal" points="194.805,72.619 
+			194.869,67.895 176.207,79.71 		"/>
+		
+			<linearGradient id="triangle36_38_" gradientUnits="userSpaceOnUse" x1="-99.1895" y1="287.0313" x2="-99.1271" y2="286.9689" gradientTransform="matrix(366 0 0 -189 36478.75 54320)">
+			<stop  offset="0" style="stop-color:#771735"/>
+			<stop  offset="1" style="stop-color:#781636"/>
+			<a:midPointStop  offset="0" style="stop-color:#771735"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#771735"/>
+			<a:midPointStop  offset="1" style="stop-color:#781636"/>
+		</linearGradient>
+		<polygon id="triangle36_105_" fill="url(#triangle36_38_)"  a:adobe-blending-mode="normal" points="194.805,72.619 
+			200.172,81.924 176.207,79.71 		"/>
+		
+			<linearGradient id="triangle36_39_" gradientUnits="userSpaceOnUse" x1="-99.1729" y1="281.2734" x2="-99.1165" y2="281.2171" gradientTransform="matrix(366 0 0 -477 36478.75 134240)">
+			<stop  offset="0" style="stop-color:#811F3F"/>
+			<stop  offset="1" style="stop-color:#771435"/>
+			<a:midPointStop  offset="0" style="stop-color:#811F3F"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#811F3F"/>
+			<a:midPointStop  offset="1" style="stop-color:#771435"/>
+		</linearGradient>
+		<polygon id="triangle36_104_" fill="url(#triangle36_39_)"  a:adobe-blending-mode="normal" points="194.936,103.188 
+			200.172,81.924 176.207,79.71 		"/>
+		
+			<linearGradient id="triangle36_40_" gradientUnits="userSpaceOnUse" x1="-97.835" y1="280.4717" x2="-97.7776" y2="280.4143" gradientTransform="matrix(224 0 0 -610 21987 171176)">
+			<stop  offset="0" style="stop-color:#C44D65"/>
+			<stop  offset="1" style="stop-color:#9F2D4B"/>
+			<a:midPointStop  offset="0" style="stop-color:#C44D65"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#C44D65"/>
+			<a:midPointStop  offset="1" style="stop-color:#9F2D4B"/>
+		</linearGradient>
+		<polygon id="triangle36_103_" fill="url(#triangle36_40_)"  a:adobe-blending-mode="normal" points="73.409,84.384 
+			73.867,112.738 88.074,114.412 		"/>
+		
+			<linearGradient id="triangle36_41_" gradientUnits="userSpaceOnUse" x1="-92.8877" y1="279.4541" x2="-92.8341" y2="279.4005" gradientTransform="matrix(806 0 0 -796 74948 222513)">
+			<stop  offset="0" style="stop-color:#DE6175"/>
+			<stop  offset="1" style="stop-color:#C74D64"/>
+			<a:midPointStop  offset="0" style="stop-color:#DE6175"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#DE6175"/>
+			<a:midPointStop  offset="1" style="stop-color:#C74D64"/>
+		</linearGradient>
+		<polygon id="triangle36_102_" fill="url(#triangle36_41_)"  a:adobe-blending-mode="normal" points="73.409,84.384 
+			126.184,75.229 88.074,114.412 		"/>
+		
+			<linearGradient id="triangle36_42_" gradientUnits="userSpaceOnUse" x1="-98.0742" y1="286.0234" x2="-98.0125" y2="285.9617" gradientTransform="matrix(217 0 0 -296 21357 84774.25)">
+			<stop  offset="0" style="stop-color:#932545"/>
+			<stop  offset="1" style="stop-color:#871C3E"/>
+			<a:midPointStop  offset="0" style="stop-color:#932545"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#932545"/>
+			<a:midPointStop  offset="1" style="stop-color:#871C3E"/>
+		</linearGradient>
+		<polygon id="triangle36_101_" fill="url(#triangle36_42_)"  a:adobe-blending-mode="normal" points="73.867,112.738 
+			76.028,127.308 88.074,114.412 		"/>
+		
+			<linearGradient id="triangle36_43_" gradientUnits="userSpaceOnUse" x1="-99.5122" y1="284.3945" x2="-99.4523" y2="284.3346" gradientTransform="matrix(184 0 0 -366 18387 104198.25)">
+			<stop  offset="0" style="stop-color:#7A1637"/>
+			<stop  offset="1" style="stop-color:#7B1536"/>
+			<a:midPointStop  offset="0" style="stop-color:#7A1637"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#7A1637"/>
+			<a:midPointStop  offset="1" style="stop-color:#7B1536"/>
+		</linearGradient>
+		<polygon id="triangle36_100_" fill="url(#triangle36_43_)"  a:adobe-blending-mode="normal" points="76.028,127.308 
+			82.576,132.428 88.074,114.412 		"/>
+		
+			<linearGradient id="triangle36_44_" gradientUnits="userSpaceOnUse" x1="-93.5698" y1="279.4473" x2="-93.5102" y2="279.3876" gradientTransform="matrix(676 0 0 -796 63342 222513)">
+			<stop  offset="0" style="stop-color:#D4586C"/>
+			<stop  offset="1" style="stop-color:#AB334E"/>
+			<a:midPointStop  offset="0" style="stop-color:#D4586C"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D4586C"/>
+			<a:midPointStop  offset="1" style="stop-color:#AB334E"/>
+		</linearGradient>
+		<polygon id="triangle36_99_" fill="url(#triangle36_44_)"  a:adobe-blending-mode="normal" points="126.184,75.229 
+			132.338,105.107 88.074,114.412 		"/>
+		
+			<linearGradient id="triangle36_45_" gradientUnits="userSpaceOnUse" x1="-93.5752" y1="290.3564" x2="-93.5092" y2="290.2904" gradientTransform="matrix(676 0 0 -189 63342 54980)">
+			<stop  offset="0" style="stop-color:#952341"/>
+			<stop  offset="1" style="stop-color:#9D2A46"/>
+			<a:midPointStop  offset="0" style="stop-color:#952341"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#952341"/>
+			<a:midPointStop  offset="1" style="stop-color:#9D2A46"/>
+		</linearGradient>
+		<polygon id="triangle36_98_" fill="url(#triangle36_45_)"  a:adobe-blending-mode="normal" points="88.074,114.412 
+			132.338,105.107 132.141,114.115 		"/>
+		
+			<linearGradient id="triangle36_46_" gradientUnits="userSpaceOnUse" x1="-96.1113" y1="288.8926" x2="-96.0434" y2="288.8247" gradientTransform="matrix(463 0 0 -210 44633 60770)">
+			<stop  offset="0" style="stop-color:#A33049"/>
+			<stop  offset="1" style="stop-color:#992B45"/>
+			<a:midPointStop  offset="0" style="stop-color:#A33049"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#A33049"/>
+			<a:midPointStop  offset="1" style="stop-color:#992B45"/>
+		</linearGradient>
+		<polygon id="triangle36_97_" fill="url(#triangle36_46_)"  a:adobe-blending-mode="normal" points="132.338,105.107 
+			162.457,103.779 132.141,114.115 		"/>
+		
+			<linearGradient id="triangle36_47_" gradientUnits="userSpaceOnUse" x1="-96.1025" y1="280.3008" x2="-96.0456" y2="280.2438" gradientTransform="matrix(463 0 0 -760 44633 213121)">
+			<stop  offset="0" style="stop-color:#A94456"/>
+			<stop  offset="1" style="stop-color:#972B45"/>
+			<a:midPointStop  offset="0" style="stop-color:#A94456"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#A94456"/>
+			<a:midPointStop  offset="1" style="stop-color:#972B45"/>
+		</linearGradient>
+		<polygon id="triangle36_96_" fill="url(#triangle36_47_)"  a:adobe-blending-mode="normal" points="152.047,141.188 
+			162.457,103.779 132.141,114.115 		"/>
+		
+			<linearGradient id="SVGID_24_" gradientUnits="userSpaceOnUse" x1="-94.1265" y1="286.9531" x2="-94.0651" y2="286.8917" gradientTransform="matrix(726 0 0 -336 68478 96557.25)">
+			<stop  offset="0" style="stop-color:#BA5D6C"/>
+			<stop  offset="1" style="stop-color:#E48187"/>
+			<a:midPointStop  offset="0" style="stop-color:#BA5D6C"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#BA5D6C"/>
+			<a:midPointStop  offset="1" style="stop-color:#E48187"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_24_)"  a:adobe-blending-mode="normal" points="167.678,151.2 173.98,149.261 157.416,147.341 
+			150.19,151.2 		"/>
+		
+			<linearGradient id="SVGID_25_" gradientUnits="userSpaceOnUse" x1="-92.436" y1="288.376" x2="-92.3785" y2="288.3185" gradientTransform="matrix(1573 0 0 -297 145554 85793.25)">
+			<stop  offset="0" style="stop-color:#CF717D"/>
+			<stop  offset="1" style="stop-color:#FFA0A4"/>
+			<a:midPointStop  offset="0" style="stop-color:#CF717D"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#CF717D"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFA0A4"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_25_)"  a:adobe-blending-mode="normal" points="188.354,151.2 173.98,149.261 167.678,151.2 		"/>
+		
+			<linearGradient id="triangle36_48_" gradientUnits="userSpaceOnUse" x1="-98.917" y1="296.626" x2="-98.8596" y2="296.5686" gradientTransform="matrix(335 0 0 -164 33288.75 48788)">
+			<stop  offset="0" style="stop-color:#CA6972"/>
+			<stop  offset="1" style="stop-color:#E37F86"/>
+			<a:midPointStop  offset="0" style="stop-color:#CA6972"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#CA6972"/>
+			<a:midPointStop  offset="1" style="stop-color:#E37F86"/>
+		</linearGradient>
+		<polygon id="triangle36_95_" fill="url(#triangle36_48_)"  a:adobe-blending-mode="normal" points="152.047,141.188 
+			157.416,147.341 173.98,149.261 		"/>
+		
+			<linearGradient id="triangle36_49_" gradientUnits="userSpaceOnUse" x1="-98.915" y1="279.6982" x2="-98.8602" y2="279.6434" gradientTransform="matrix(335 0 0 -924 33288.75 258549)">
+			<stop  offset="0" style="stop-color:#BA5865"/>
+			<stop  offset="1" style="stop-color:#C25B6A"/>
+			<a:midPointStop  offset="0" style="stop-color:#BA5865"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#BA5865"/>
+			<a:midPointStop  offset="1" style="stop-color:#C25B6A"/>
+		</linearGradient>
+		<polygon id="triangle36_94_" fill="url(#triangle36_49_)"  a:adobe-blending-mode="normal" points="152.047,141.188 
+			162.457,103.779 173.98,149.261 		"/>
+		
+			<linearGradient id="triangle36_50_" gradientUnits="userSpaceOnUse" x1="-96.6367" y1="279.665" x2="-96.5832" y2="279.6115" gradientTransform="matrix(496 0 0 -936 48099 261861)">
+			<stop  offset="0" style="stop-color:#A73E55"/>
+			<stop  offset="1" style="stop-color:#BC5A6B"/>
+			<a:midPointStop  offset="0" style="stop-color:#A73E55"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#A73E55"/>
+			<a:midPointStop  offset="1" style="stop-color:#BC5A6B"/>
+		</linearGradient>
+		<polygon id="triangle36_93_" fill="url(#triangle36_50_)"  a:adobe-blending-mode="normal" points="162.457,103.779 
+			194.936,103.188 173.98,149.261 		"/>
+		
+			<linearGradient id="triangle36_51_" gradientUnits="userSpaceOnUse" x1="-97.8594" y1="279.6563" x2="-97.798" y2="279.5948" gradientTransform="matrix(432 0 0 -936 42451 261861)">
+			<stop  offset="0" style="stop-color:#AB4B61"/>
+			<stop  offset="1" style="stop-color:#C96977"/>
+			<a:midPointStop  offset="0" style="stop-color:#AB4B61"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#AB4B61"/>
+			<a:midPointStop  offset="1" style="stop-color:#C96977"/>
+		</linearGradient>
+		<polygon id="triangle36_92_" fill="url(#triangle36_51_)"  a:adobe-blending-mode="normal" points="194.936,103.188 
+			202.27,107.175 173.98,149.261 		"/>
+		
+			<linearGradient id="SVGID_26_" gradientUnits="userSpaceOnUse" x1="-95.5239" y1="279.8975" x2="-95.4708" y2="279.8443" gradientTransform="matrix(655 0 0 -883 62744 247261)">
+			<stop  offset="0" style="stop-color:#CA6C7D"/>
+			<stop  offset="1" style="stop-color:#FFA2A7"/>
+			<a:midPointStop  offset="0" style="stop-color:#CA6C7D"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#CA6C7D"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFA2A7"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_26_)"  a:adobe-blending-mode="normal" points="216,148.049 202.27,107.175 173.98,149.261 216,150.61 
+					"/>
+		
+			<linearGradient id="SVGID_27_" gradientUnits="userSpaceOnUse" x1="-94.4897" y1="299.2119" x2="-94.4284" y2="299.1506" gradientTransform="matrix(847 0 0 -152 80215 45628)">
+			<stop  offset="0" style="stop-color:#FFBCBF"/>
+			<stop  offset="1" style="stop-color:#FFA7AB"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFBCBF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFBCBF"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFA7AB"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_27_)"  a:adobe-blending-mode="normal" points="216,151.2 216,150.61 173.98,149.261 188.354,151.2 		
+			"/>
+		
+			<linearGradient id="SVGID_28_" gradientUnits="userSpaceOnUse" x1="-99.9063" y1="277.9053" x2="-99.8395" y2="277.8385" gradientTransform="matrix(368 0 0 -496 36957.75 137834)">
+			<stop  offset="0" style="stop-color:#8D253E"/>
+			<stop  offset="1" style="stop-color:#881F39"/>
+			<a:midPointStop  offset="0" style="stop-color:#8D253E"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#8D253E"/>
+			<a:midPointStop  offset="1" style="stop-color:#881F39"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_28_)"  a:adobe-blending-mode="normal" points="216,1.355 195.654,21.971 216,20.46 		"/>
+		
+			<linearGradient id="SVGID_29_" gradientUnits="userSpaceOnUse" x1="-91.3164" y1="279.5879" x2="-91.2627" y2="279.5342" gradientTransform="matrix(1223 0 0 -811 111680 226831.5)">
+			<stop  offset="0" style="stop-color:#9A3F5C"/>
+			<stop  offset="1" style="stop-color:#A9405E"/>
+			<a:midPointStop  offset="0" style="stop-color:#9A3F5C"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#9A3F5C"/>
+			<a:midPointStop  offset="1" style="stop-color:#A9405E"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_29_)"  a:adobe-blending-mode="normal" points="0,122.364 73.867,112.738 51.277,83.253 0,118.86 		"/>
+		
+			<linearGradient id="SVGID_30_" gradientUnits="userSpaceOnUse" x1="-91.3096" y1="286.0303" x2="-91.2485" y2="285.9692" gradientTransform="matrix(1256 0 0 -296 114683 84774.25)">
+			<stop  offset="0" style="stop-color:#A93C5B"/>
+			<stop  offset="1" style="stop-color:#A73D5C"/>
+			<a:midPointStop  offset="0" style="stop-color:#A93C5B"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#A93C5B"/>
+			<a:midPointStop  offset="1" style="stop-color:#A73D5C"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_30_)"  a:adobe-blending-mode="normal" points="0,123.485 76.028,127.308 73.867,112.738 0,122.364 		
+			"/>
+		
+			<linearGradient id="SVGID_31_" gradientUnits="userSpaceOnUse" x1="-91.2808" y1="292.2803" x2="-91.2236" y2="292.2231" gradientTransform="matrix(1356 0 0 -188 123783 55070)">
+			<stop  offset="0" style="stop-color:#973051"/>
+			<stop  offset="1" style="stop-color:#9F3858"/>
+			<a:midPointStop  offset="0" style="stop-color:#973051"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#973051"/>
+			<a:midPointStop  offset="1" style="stop-color:#9F3858"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_31_)"  a:adobe-blending-mode="normal" points="0,123.821 82.576,132.428 76.028,127.308 0,123.485 		
+			"/>
+		
+			<linearGradient id="SVGID_32_" gradientUnits="userSpaceOnUse" x1="-91.1802" y1="283.6113" x2="-91.1229" y2="283.5541" gradientTransform="matrix(1529 0 0 -435 139424 123489.5)">
+			<stop  offset="0" style="stop-color:#862345"/>
+			<stop  offset="1" style="stop-color:#932F50"/>
+			<a:midPointStop  offset="0" style="stop-color:#862345"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#862345"/>
+			<a:midPointStop  offset="1" style="stop-color:#932F50"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_32_)"  a:adobe-blending-mode="normal" points="0,124.502 93.903,144.585 82.576,132.428 0,123.821 		
+			"/>
+		
+			<linearGradient id="SVGID_33_" gradientUnits="userSpaceOnUse" x1="-91.0791" y1="283.6006" x2="-91.0224" y2="283.5439" gradientTransform="matrix(1793 0 0 -435 163284 123489.5)">
+			<stop  offset="0" style="stop-color:#D0607A"/>
+			<stop  offset="1" style="stop-color:#A33D5C"/>
+			<a:midPointStop  offset="0" style="stop-color:#D0607A"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D0607A"/>
+			<a:midPointStop  offset="1" style="stop-color:#A33D5C"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_33_)"  a:adobe-blending-mode="normal" points="0,124.502 0,134.664 93.903,144.585 		"/>
+		
+			<linearGradient id="SVGID_34_" gradientUnits="userSpaceOnUse" x1="-93.0332" y1="276.9102" x2="-92.9753" y2="276.8522" gradientTransform="matrix(509 0 0 -772 47396 213739)">
+			<stop  offset="0" style="stop-color:#C76D86"/>
+			<stop  offset="1" style="stop-color:#E089A1"/>
+			<a:midPointStop  offset="0" style="stop-color:#C76D86"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#C76D86"/>
+			<a:midPointStop  offset="1" style="stop-color:#E089A1"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_34_)"  a:adobe-blending-mode="normal" points="63.545,0 72.295,8.581 67.18,0 		"/>
+		
+			<linearGradient id="SVGID_35_" gradientUnits="userSpaceOnUse" x1="-93.0508" y1="276.8057" x2="-92.995" y2="276.7499" gradientTransform="matrix(581 0 0 -869 54111 240511)">
+			<stop  offset="0" style="stop-color:#FFB6CC"/>
+			<stop  offset="1" style="stop-color:#B55B76"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFB6CC"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFB6CC"/>
+			<a:midPointStop  offset="1" style="stop-color:#B55B76"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_35_)"  a:adobe-blending-mode="normal" points="67.18,0 72.295,8.581 75.382,0 		"/>
+		
+			<linearGradient id="triangle36_52_" gradientUnits="userSpaceOnUse" x1="-94.8022" y1="278.4941" x2="-94.743" y2="278.4348" gradientTransform="matrix(357 0 0 -691 33906.75 192460)">
+			<stop  offset="0" style="stop-color:#FE9CA9"/>
+			<stop  offset="1" style="stop-color:#FFACB9"/>
+			<a:midPointStop  offset="0" style="stop-color:#FE9CA9"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FE9CA9"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFACB9"/>
+		</linearGradient>
+		<polygon id="triangle36_91_" fill="url(#triangle36_52_)"  a:adobe-blending-mode="normal" points="61.426,53.424 70.528,61.596 
+			84.802,27.583 		"/>
+		
+			<linearGradient id="triangle36_53_" gradientUnits="userSpaceOnUse" x1="-95.0059" y1="279.1123" x2="-94.5367" y2="278.6431" gradientTransform="matrix(357 0 0 -534 33906.75 148961)">
+			<stop  offset="0" style="stop-color:#FFA7B5"/>
+			<stop  offset="1" style="stop-color:#FFCED8"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFA7B5"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFA7B5"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFCED8"/>
+		</linearGradient>
+		<polygon id="triangle36_90_" fill="url(#triangle36_53_)"  a:adobe-blending-mode="normal" points="61.426,53.424 84.343,27.139 
+			84.802,27.583 		"/>
+		
+			<linearGradient id="triangle36_54_" gradientUnits="userSpaceOnUse" x1="-93.6699" y1="278.4834" x2="-93.6098" y2="278.4232" gradientTransform="matrix(557 0 0 -691 52246 192460)">
+			<stop  offset="0" style="stop-color:#FFA3AE"/>
+			<stop  offset="1" style="stop-color:#FFC7CF"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFA3AE"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFA3AE"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFC7CF"/>
+		</linearGradient>
+		<polygon id="triangle36_89_" fill="url(#triangle36_54_)"  a:adobe-blending-mode="normal" points="70.528,61.596 106.999,37.722 
+			84.802,27.583 		"/>
+		
+			<linearGradient id="triangle36_55_" gradientUnits="userSpaceOnUse" x1="-95.4526" y1="278.502" x2="-94.9924" y2="278.0417" gradientTransform="matrix(396 0 0 -456 37805.75 126908)">
+			<stop  offset="0" style="stop-color:#FFDFEB"/>
+			<stop  offset="1" style="stop-color:#FFE1F0"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFDFEB"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFDFEB"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFE1F0"/>
+		</linearGradient>
+		<polygon id="triangle36_88_" fill="url(#triangle36_55_)"  a:adobe-blending-mode="normal" points="84.343,27.139 110.271,5.135 
+			84.802,27.583 		"/>
+		
+			<linearGradient id="triangle36_56_" gradientUnits="userSpaceOnUse" x1="-95.3462" y1="277.9063" x2="-95.285" y2="277.8451" gradientTransform="matrix(389 0 0 -662 37175.75 183971)">
+			<stop  offset="0" style="stop-color:#FFD2DB"/>
+			<stop  offset="1" style="stop-color:#FFE0ED"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFD2DB"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFD2DB"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFE0ED"/>
+		</linearGradient>
+		<polygon id="triangle36_87_" fill="url(#triangle36_56_)"  a:adobe-blending-mode="normal" points="106.999,37.722 110.271,5.135 
+			84.802,27.583 		"/>
+		
+			<linearGradient id="triangle36_57_" gradientUnits="userSpaceOnUse" x1="-97.7148" y1="278.0479" x2="-97.6619" y2="277.9949" gradientTransform="matrix(299 0 0 -609 29324.75 169342)">
+			<stop  offset="0" style="stop-color:#FFC3CA"/>
+			<stop  offset="1" style="stop-color:#FFBAC6"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFC3CA"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFC3CA"/>
+			<a:midPointStop  offset="1" style="stop-color:#FFBAC6"/>
+		</linearGradient>
+		<polygon id="triangle36_86_" fill="url(#triangle36_57_)"  a:adobe-blending-mode="normal" points="106.999,37.722 121.01,7.744 
+			126.576,36.588 		"/>
+		
+			<linearGradient id="triangle36_58_" gradientUnits="userSpaceOnUse" x1="-96.0361" y1="279.9492" x2="-95.9786" y2="279.8916" gradientTransform="matrix(398 0 0 -408 38333.75 114251)">
+			<stop  offset="0" style="stop-color:#FFB3BA"/>
+			<stop  offset="1" style="stop-color:#F295A0"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFB3BA"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFB3BA"/>
+			<a:midPointStop  offset="1" style="stop-color:#F295A0"/>
+		</linearGradient>
+		<polygon id="triangle36_85_" fill="url(#triangle36_58_)"  a:adobe-blending-mode="normal" points="106.999,37.722 
+			133.058,56.673 126.576,36.588 		"/>
+		
+			<linearGradient id="triangle36_59_" gradientUnits="userSpaceOnUse" x1="-93.9546" y1="278.0996" x2="-93.8931" y2="278.0381" gradientTransform="matrix(746 0 0 -586 70215 162971)">
+			<stop  offset="0" style="stop-color:#FFABBC"/>
+			<stop  offset="1" style="stop-color:#D37887"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFABBC"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#FFABBC"/>
+			<a:midPointStop  offset="1" style="stop-color:#D37887"/>
+		</linearGradient>
+		<polygon id="triangle36_84_" fill="url(#triangle36_59_)"  a:adobe-blending-mode="normal" points="121.01,7.744 169.856,9.517 
+			126.576,36.588 		"/>
+		
+			<linearGradient id="triangle36_60_" gradientUnits="userSpaceOnUse" x1="-94.9624" y1="279.6074" x2="-94.9051" y2="279.5501" gradientTransform="matrix(578 0 0 -459 55013 128378)">
+			<stop  offset="0" style="stop-color:#DC7885"/>
+			<stop  offset="1" style="stop-color:#D27181"/>
+			<a:midPointStop  offset="0" style="stop-color:#DC7885"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#DC7885"/>
+			<a:midPointStop  offset="1" style="stop-color:#D27181"/>
+		</linearGradient>
+		<polygon id="triangle36_83_" fill="url(#triangle36_60_)"  a:adobe-blending-mode="normal" points="133.058,56.673 
+			164.422,59.181 126.576,36.588 		"/>
+		
+			<linearGradient id="triangle36_61_" gradientUnits="userSpaceOnUse" x1="-94.4551" y1="277.6826" x2="-94.3951" y2="277.6227" gradientTransform="matrix(661 0 0 -1009 62566 280178)">
+			<stop  offset="0" style="stop-color:#B45164"/>
+			<stop  offset="1" style="stop-color:#C76978"/>
+			<a:midPointStop  offset="0" style="stop-color:#B45164"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#B45164"/>
+			<a:midPointStop  offset="1" style="stop-color:#C76978"/>
+		</linearGradient>
+		<polygon id="triangle36_82_" fill="url(#triangle36_61_)"  a:adobe-blending-mode="normal" points="164.422,59.181 169.856,9.517 
+			126.576,36.588 		"/>
+		
+			<linearGradient id="SVGID_36_" gradientUnits="userSpaceOnUse" x1="-98.8818" y1="278.6377" x2="-98.8272" y2="278.5831" gradientTransform="matrix(415 0 0 -562 41234.75 156612)">
+			<stop  offset="0" style="stop-color:#8A243E"/>
+			<stop  offset="1" style="stop-color:#7F1C37"/>
+			<a:midPointStop  offset="0" style="stop-color:#8A243E"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#8A243E"/>
+			<a:midPointStop  offset="1" style="stop-color:#7F1C37"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_36_)"  a:adobe-blending-mode="normal" points="216,23.703 195.654,21.971 209.209,49.633 216,36.992 		
+			"/>
+		
+			<linearGradient id="SVGID_37_" gradientUnits="userSpaceOnUse" x1="-98.8853" y1="288.2188" x2="-98.8259" y2="288.1594" gradientTransform="matrix(415 0 0 -79 41234.75 22789)">
+			<stop  offset="0" style="stop-color:#8B243D"/>
+			<stop  offset="1" style="stop-color:#841D37"/>
+			<a:midPointStop  offset="0" style="stop-color:#8B243D"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#8B243D"/>
+			<a:midPointStop  offset="1" style="stop-color:#841D37"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_37_)"  a:adobe-blending-mode="normal" points="216,20.46 195.654,21.971 216,23.703 		"/>
+		
+			<linearGradient id="SVGID_38_" gradientUnits="userSpaceOnUse" x1="-100.9346" y1="277.4063" x2="-100.8764" y2="277.3481" gradientTransform="matrix(349 0 0 -2397 35435.75 664960)">
+			<stop  offset="0" style="stop-color:#6C1231"/>
+			<stop  offset="1" style="stop-color:#A84D64"/>
+			<a:midPointStop  offset="0" style="stop-color:#6C1231"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#6C1231"/>
+			<a:midPointStop  offset="1" style="stop-color:#A84D64"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_38_)"  a:adobe-blending-mode="normal" points="216,36.992 209.209,49.633 216,77.165 		"/>
+		
+			<linearGradient id="SVGID_39_" gradientUnits="userSpaceOnUse" x1="-90.8716" y1="279.9639" x2="-90.8226" y2="279.9149" gradientTransform="matrix(587 0 0 -738 53327 206683)">
+			<stop  offset="0" style="stop-color:#9A2E48"/>
+			<stop  offset="1" style="stop-color:#9A3250"/>
+			<a:midPointStop  offset="0" style="stop-color:#9A2E48"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#9A2E48"/>
+			<a:midPointStop  offset="1" style="stop-color:#9A3250"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_39_)"  a:adobe-blending-mode="normal" points="0,87.529 0,91.843 0.99,86.846 		"/>
+		
+			<linearGradient id="SVGID_40_" gradientUnits="userSpaceOnUse" x1="-90.8057" y1="282.9912" x2="-90.7561" y2="282.9417" gradientTransform="matrix(749 0 0 -313 67989 88644.25)">
+			<stop  offset="0" style="stop-color:#791435"/>
+			<stop  offset="1" style="stop-color:#7D1B3D"/>
+			<a:midPointStop  offset="0" style="stop-color:#791435"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#791435"/>
+			<a:midPointStop  offset="1" style="stop-color:#7D1B3D"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_40_)"  a:adobe-blending-mode="normal" points="0,72.251 0,86.495 0.99,86.846 6.425,72.373 		"/>
+		
+			<linearGradient id="SVGID_41_" gradientUnits="userSpaceOnUse" x1="-91.4399" y1="279.6006" x2="-91.3726" y2="279.5333" gradientTransform="matrix(878 0 0 -811 80284 226831.5)">
+			<stop  offset="0" style="stop-color:#A13D5B"/>
+			<stop  offset="1" style="stop-color:#832847"/>
+			<a:midPointStop  offset="0" style="stop-color:#A13D5B"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#A13D5B"/>
+			<a:midPointStop  offset="1" style="stop-color:#832847"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_41_)"  a:adobe-blending-mode="normal" points="0,118.86 51.277,83.253 0.99,86.846 0,91.843 		"/>
+		
+			<linearGradient id="triangle36_62_" gradientUnits="userSpaceOnUse" x1="-91.6494" y1="283.4229" x2="-91.5914" y2="283.3648" gradientTransform="matrix(768 0 0 -294 70384 83400.25)">
+			<stop  offset="0" style="stop-color:#802445"/>
+			<stop  offset="1" style="stop-color:#812746"/>
+			<a:midPointStop  offset="0" style="stop-color:#802445"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#802445"/>
+			<a:midPointStop  offset="1" style="stop-color:#812746"/>
+		</linearGradient>
+		<polygon id="triangle36_81_" fill="url(#triangle36_62_)"  a:adobe-blending-mode="normal" points="6.425,72.373 51.277,83.253 
+			0.99,86.846 		"/>
+		
+			<linearGradient id="SVGID_42_" gradientUnits="userSpaceOnUse" x1="-94.6665" y1="284.8008" x2="-94.6089" y2="284.7432" gradientTransform="matrix(497 0 0 -421 47143 120046)">
+			<stop  offset="0" style="stop-color:#5A072A"/>
+			<stop  offset="1" style="stop-color:#711C3B"/>
+			<a:midPointStop  offset="0" style="stop-color:#5A072A"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#5A072A"/>
+			<a:midPointStop  offset="1" style="stop-color:#711C3B"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_42_)"  a:adobe-blending-mode="normal" points="105.059,151.2 93.903,144.585 99.003,151.2 		"/>
+		
+			<linearGradient id="SVGID_43_" gradientUnits="userSpaceOnUse" x1="-90.9302" y1="284.8164" x2="-90.868" y2="284.7542" gradientTransform="matrix(2326 0 0 -421 211498 120046)">
+			<stop  offset="0" style="stop-color:#B6556A"/>
+			<stop  offset="1" style="stop-color:#6B1336"/>
+			<a:midPointStop  offset="0" style="stop-color:#B6556A"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#B6556A"/>
+			<a:midPointStop  offset="1" style="stop-color:#6B1336"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_43_)"  a:adobe-blending-mode="normal" points="99.003,151.2 93.903,144.585 0,147.874 0,151.2 		"/>
+		
+			<linearGradient id="triangle36_63_" gradientUnits="userSpaceOnUse" x1="-93.4287" y1="284.374" x2="-93.3718" y2="284.3171" gradientTransform="matrix(685 0 0 -366 64077 104198.25)">
+			<stop  offset="0" style="stop-color:#6A092E"/>
+			<stop  offset="1" style="stop-color:#7C1636"/>
+			<a:midPointStop  offset="0" style="stop-color:#6A092E"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#6A092E"/>
+			<a:midPointStop  offset="1" style="stop-color:#7C1636"/>
+		</linearGradient>
+		<polygon id="triangle36_80_" fill="url(#triangle36_63_)"  a:adobe-blending-mode="normal" points="82.576,132.428 
+			88.074,114.412 127.428,131.885 		"/>
+		
+			<linearGradient id="triangle36_64_" gradientUnits="userSpaceOnUse" x1="-93.4141" y1="288.7871" x2="-93.3615" y2="288.7345" gradientTransform="matrix(685 0 0 -258 64077 74637)">
+			<stop  offset="0" style="stop-color:#63082D"/>
+			<stop  offset="1" style="stop-color:#640A2D"/>
+			<a:midPointStop  offset="0" style="stop-color:#63082D"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#63082D"/>
+			<a:midPointStop  offset="1" style="stop-color:#640A2D"/>
+		</linearGradient>
+		<polygon id="triangle36_79_" fill="url(#triangle36_64_)"  a:adobe-blending-mode="normal" points="82.576,132.428 
+			93.903,144.585 127.428,131.885 		"/>
+		
+			<linearGradient id="triangle36_65_" gradientUnits="userSpaceOnUse" x1="-93.5669" y1="284.4854" x2="-93.5099" y2="284.4284" gradientTransform="matrix(673 0 0 -361 63070 102807.25)">
+			<stop  offset="0" style="stop-color:#861A3A"/>
+			<stop  offset="1" style="stop-color:#841C3A"/>
+			<a:midPointStop  offset="0" style="stop-color:#861A3A"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#861A3A"/>
+			<a:midPointStop  offset="1" style="stop-color:#841C3A"/>
+		</linearGradient>
+		<polygon id="triangle36_78_" fill="url(#triangle36_65_)"  a:adobe-blending-mode="normal" points="88.074,114.412 
+			132.141,114.115 127.428,131.885 		"/>
+		
+			<linearGradient id="SVGID_44_" gradientUnits="userSpaceOnUse" x1="-94.5493" y1="281.6914" x2="-94.4866" y2="281.6288" gradientTransform="matrix(512 0 0 -650 48508 183222)">
+			<stop  offset="0" style="stop-color:#5F092D"/>
+			<stop  offset="1" style="stop-color:#7E2340"/>
+			<a:midPointStop  offset="0" style="stop-color:#5F092D"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#5F092D"/>
+			<a:midPointStop  offset="1" style="stop-color:#7E2340"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_44_)"  a:adobe-blending-mode="normal" points="126.835,151.2 127.428,131.885 93.903,144.585 
+			105.059,151.2 		"/>
+		
+			<linearGradient id="SVGID_45_" gradientUnits="userSpaceOnUse" x1="-96.8418" y1="281.6826" x2="-96.7801" y2="281.6209" gradientTransform="matrix(391 0 0 -650 37993.75 183222)">
+			<stop  offset="0" style="stop-color:#973C53"/>
+			<stop  offset="1" style="stop-color:#9A3A50"/>
+			<a:midPointStop  offset="0" style="stop-color:#973C53"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#973C53"/>
+			<a:midPointStop  offset="1" style="stop-color:#9A3A50"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_45_)"  a:adobe-blending-mode="normal" points="140.753,151.2 152.047,141.188 127.428,131.885 
+			126.835,151.2 		"/>
+		
+			<linearGradient id="triangle36_66_" gradientUnits="userSpaceOnUse" x1="-97.1201" y1="281.8975" x2="-97.0636" y2="281.841" gradientTransform="matrix(376 0 0 -550 36643.75 155160)">
+			<stop  offset="0" style="stop-color:#8E2641"/>
+			<stop  offset="1" style="stop-color:#95334A"/>
+			<a:midPointStop  offset="0" style="stop-color:#8E2641"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#8E2641"/>
+			<a:midPointStop  offset="1" style="stop-color:#95334A"/>
+		</linearGradient>
+		<polygon id="triangle36_77_" fill="url(#triangle36_66_)"  a:adobe-blending-mode="normal" points="132.141,114.115 
+			152.047,141.188 127.428,131.885 		"/>
+		
+			<linearGradient id="triangle36_67_" gradientUnits="userSpaceOnUse" x1="-99.0918" y1="280.2061" x2="-99.0322" y2="280.1465" gradientTransform="matrix(282 0 0 -607 28070.75 170159)">
+			<stop  offset="0" style="stop-color:#D0566A"/>
+			<stop  offset="1" style="stop-color:#B23953"/>
+			<a:midPointStop  offset="0" style="stop-color:#D0566A"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D0566A"/>
+			<a:midPointStop  offset="1" style="stop-color:#B23953"/>
+		</linearGradient>
+		<polygon id="triangle36_76_" fill="url(#triangle36_67_)"  a:adobe-blending-mode="normal" points="126.184,75.229 
+			132.338,105.107 144.647,92.359 		"/>
+		
+			<linearGradient id="triangle36_68_" gradientUnits="userSpaceOnUse" x1="-97.4204" y1="280.1406" x2="-97.3621" y2="280.0823" gradientTransform="matrix(355 0 0 -558 34713.75 156376)">
+			<stop  offset="0" style="stop-color:#D15A6D"/>
+			<stop  offset="1" style="stop-color:#B9465E"/>
+			<a:midPointStop  offset="0" style="stop-color:#D15A6D"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#D15A6D"/>
+			<a:midPointStop  offset="1" style="stop-color:#B9465E"/>
+		</linearGradient>
+		<polygon id="triangle36_75_" fill="url(#triangle36_68_)"  a:adobe-blending-mode="normal" points="126.184,75.229 
+			149.428,64.893 144.647,92.359 		"/>
+		
+			<linearGradient id="triangle36_69_" gradientUnits="userSpaceOnUse" x1="-96.1572" y1="285.7783" x2="-96.1015" y2="285.7226" gradientTransform="matrix(460 0 0 -259 44363 74111)">
+			<stop  offset="0" style="stop-color:#A6314B"/>
+			<stop  offset="1" style="stop-color:#A3314B"/>
+			<a:midPointStop  offset="0" style="stop-color:#A6314B"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#A6314B"/>
+			<a:midPointStop  offset="1" style="stop-color:#A3314B"/>
+		</linearGradient>
+		<polygon id="triangle36_74_" fill="url(#triangle36_69_)"  a:adobe-blending-mode="normal" points="132.338,105.107 
+			162.457,103.779 144.647,92.359 		"/>
+		
+			<linearGradient id="triangle36_70_" gradientUnits="userSpaceOnUse" x1="-96.2847" y1="280.125" x2="-96.2255" y2="280.0658" gradientTransform="matrix(482 0 0 -558 46553 156376)">
+			<stop  offset="0" style="stop-color:#AE4058"/>
+			<stop  offset="1" style="stop-color:#9C2C49"/>
+			<a:midPointStop  offset="0" style="stop-color:#AE4058"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#AE4058"/>
+			<a:midPointStop  offset="1" style="stop-color:#9C2C49"/>
+		</linearGradient>
+		<polygon id="triangle36_73_" fill="url(#triangle36_70_)"  a:adobe-blending-mode="normal" points="149.428,64.893 176.207,79.71 
+			144.647,92.359 		"/>
+		
+			<linearGradient id="triangle36_71_" gradientUnits="userSpaceOnUse" x1="-96.2754" y1="281.166" x2="-96.2173" y2="281.108" gradientTransform="matrix(482 0 0 -489 46553 137564)">
+			<stop  offset="0" style="stop-color:#972A45"/>
+			<stop  offset="1" style="stop-color:#992946"/>
+			<a:midPointStop  offset="0" style="stop-color:#972A45"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#972A45"/>
+			<a:midPointStop  offset="1" style="stop-color:#992946"/>
+		</linearGradient>
+		<polygon id="triangle36_72_" fill="url(#triangle36_71_)"  a:adobe-blending-mode="normal" points="162.457,103.779 
+			176.207,79.71 144.647,92.359 		"/>
+	</g>
+</g>
+</svg>

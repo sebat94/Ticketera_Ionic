@@ -1,0 +1,42 @@
+<ion-slides pager>
+
+  <ion-slide>
+    <h2>Ventas por género</h2>
+    <ngx-charts-pie-chart
+      [results]="dataSlide1"
+      [labels]="true"
+      [legend]="legendSlide1">
+    </ngx-charts-pie-chart>
+    <!-- [tooltipDisabled]="true" -->
+  </ion-slide>
+
+  <ion-slide>
+    <h2>Ventas por tipo de ticket</h2>
+    <ngx-charts-number-card
+      [results]="dataSlide2">
+    </ngx-charts-number-card>
+  </ion-slide>
+
+  <ion-slide>
+    <h2>Ventas por RRPP vs Plataforma</h2>
+    <ngx-charts-number-card
+      [results]="dataSlide3">
+    </ngx-charts-number-card>
+  </ion-slide>
+
+  <ion-slide>
+    <h2>Ventas por fecha</h2>
+    <ngx-charts-bar-vertical
+      [results]="dataSlide4"
+      [gradient]="true"
+      [showXAxisLabel]="false"
+      [showYAxisLabel]="false"
+      [xAxis]="true"
+      [yAxis]="true"
+      [legend]="legendSlide4">
+    </ngx-charts-bar-vertical>
+    <!-- xAxisLabel="Cantidad"
+      yAxisLabel="Entradas" -->
+  </ion-slide>
+
+</ion-slides>

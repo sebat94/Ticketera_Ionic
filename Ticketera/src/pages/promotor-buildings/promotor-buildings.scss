@@ -1,0 +1,49 @@
+page-promotor-buildings {
+
+    ion-content.content-md{
+        @include background-color();
+    }
+
+    .list-md{
+        margin:16px 0;
+    }
+    ion-item.item-md{
+        background-color:rgba(255, 255, 255, 0.1);
+        margin-bottom:16px;
+    }
+    .item-md h2,
+    .item-md p{
+        color:$white-1;
+    }
+    .item-md h2{
+        font-size:1.4em;
+    }
+    .list-md .item-block .item-inner{
+        border-bottom:0;
+    }
+
+    .btn_statistics_group{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        margin-top:16px;
+        height:36px;
+        position:relative;
+    }
+    .btn_statistics{
+        width:49%;
+        height:100% !important;
+        display:block;
+        margin:0 !important;
+        position:absolute;
+        bottom:0;
+    }
+    .btn_statistics:first-child{
+        left:0;
+        margin-right:2%;
+    }
+    .btn_statistics:last-child{
+        right:0;
+    }
+    
+}

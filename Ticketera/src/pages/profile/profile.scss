@@ -1,0 +1,76 @@
+page-profile {
+
+    ion-content.content-md{
+        @include background-color();
+    }
+
+    .background_purple{
+        width:100%;
+        height:180px;
+        background-image:url('../assets/imgs/public/party.jpg');
+        object-fit:cover;
+        background-position:50% 50%;
+        position:absolute;
+    }
+
+    ion-grid.grid{
+        padding:0;
+    }
+    ion-grid ion-row.row{
+        min-height:44px;
+    }
+    ion-grid ion-row ion-col.col{
+        padding:0;
+        -webkit-flex-basis:none;
+        flex-basis:none;
+    }
+    ion-grid ion-row ion-col.col button.button-md{
+        font-size: 1.5rem;
+        margin:1.5rem 0.2rem;
+        height:4em;
+    }
+
+    .profile_image{
+        width:120px;
+        height:120px;
+        border-radius:50%;
+            -webkit-border-radius:50%;
+            -moz-border-radius:50%;
+        overflow:hidden;
+        margin:70px auto 0 auto;
+    }
+    .profile_image img{
+        width:100%;
+        height:100%;
+        object-fit:contain;
+    }
+
+    .profile_email{
+        color:$pink-1;
+    }
+    
+    /*-- FAB BUTTOn --*/
+    ion-fab button.fab-md{
+        background-color:$pink-1;
+    }
+
+    .btn_profile_group{
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-direction: row;
+        flex-direction: row;
+        -webkit-align-items: center;
+        align-items: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+    }
+    .btn_profile{
+        width:50%;
+        height:46px;
+        margin:0;
+    }
+    .border_top_none{
+        border-top:0 !important;
+    }
+
+}

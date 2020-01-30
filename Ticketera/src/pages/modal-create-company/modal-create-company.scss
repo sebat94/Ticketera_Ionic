@@ -1,0 +1,45 @@
+page-modal-create-company {
+
+    ion-content.content-md{
+        @include background-color();
+    }
+
+    .list-md{
+        margin:16px 0;
+    }
+
+    ion-list{
+        @include border-radius(3px);
+        background-color:rgba(255, 255, 255, 0.1);
+    }
+    ion-list-header.list-header-md{
+        border-top:0;
+        margin-bottom:0;
+        border-bottom:1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    /*-- Radio button --*/
+    ion-list[radio-group] .label-md,
+    ion-list ion-list.list-md{
+        margin:0;
+    }
+    ion-list ion-list{
+        background:none !important;
+    }
+
+    /*-- inputs --*/
+    .list-md .item-block .item-inner,
+    .list-md .item-input:last-child{
+        border-bottom:0;
+    }
+
+    /*-- RESET BACKGROUND EACH 'ion-item' of 'ion-list' --*/
+    .item-md{
+        background-color:transparent;
+    }
+
+    .btn_create_company{
+        height:46px;
+    }
+
+}

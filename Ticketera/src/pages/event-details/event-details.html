@@ -1,0 +1,51 @@
+<ion-content>
+  
+  <div class="event_details">
+
+    <div class="event_details_img">
+      <img [src]="imagePATH" alt="">
+      <building-logo img="{{ eventWithImages.event.building.image }}"></building-logo>
+
+      <!--<ion-fab class="fab_button" right>
+        <button class="fab fab-ios fab-ios-danger buy_ticket" ion-fab color="pink" (tap)="buyTicket()">
+          <span class="button-inner">
+            <ion-icon name="card" role="img" aria-label="card"></ion-icon>
+          </span>
+        </button>
+      </ion-fab>-->
+    </div>
+
+    <ion-scroll scrollX="true">
+      <div class="scroll_horiz_img" float-left *ngFor="let ei of eventWithImages.eventImages" (click)="changeImage(ei.image)"><!-- 'tab' event crash inside ion-scroll -->
+        <img src="{{ ei.image }}" alt="">
+      </div>
+    </ion-scroll>
+
+    <ion-grid>
+      <ion-row margin>
+        <ion-col class="event_details_info">
+            <h1>{{ eventWithImages.event.name }}</h1>
+            <span class="fs_18">{{ eventWithImages.event.building.type }}</span>
+            <span class="mt_10 fs_16">{{ eventWithImages.event.building.address }}</span>
+            <span class="mt_10 fs_16">{{ eventWithImages.event.dateToString | date:'yyyy-MM-dd HH:mm' }}</span>
+        </ion-col>
+      </ion-row>
+      <ion-row margin>
+        <div margin-bottom><span class="buy_tickets_title fs_22">Comprar entradas</span></div>
+        <div text-center text-uppercase class="event_type_ticket fs_18" *ngFor="let tk of eventWithImages.typetickets">
+          <ion-col><span>{{ tk.name }}</span></ion-col>
+          <ion-col>
+            <span>
+              {{ tk.price | number:'1.2-2' }}€ 
+              <button ion-button icon-start color="pink" (tap)="buyTicket(tk.id)">
+                <ion-icon name="logo-usd">BUY</ion-icon>
+              </button>
+            </span>
+          </ion-col>
+        </div>
+      </ion-row>
+    </ion-grid>
+
+  </div>
+  
+</ion-content>

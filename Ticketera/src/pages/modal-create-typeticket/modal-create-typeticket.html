@@ -1,0 +1,25 @@
+<ion-content padding>
+
+  <ion-list class="mb_40">
+    <ion-list-header class="fs_22 text_grey">Crear tipo de ticket</ion-list-header>
+
+    <ion-item class="text_grey">
+      <ion-label>Nombre</ion-label>
+      <ion-input type="text" placeholder="Nombre" [(ngModel)]="ticket.name"></ion-input>
+    </ion-item>
+
+    <ion-item class="text_grey">
+      <ion-label>Cantidad tickets</ion-label>
+      <ion-input type="number" placeholder="Cantidad" [(ngModel)]="ticket.totalAmount"></ion-input>
+    </ion-item>
+
+    <ion-item class="text_grey">
+      <ion-label>Precio</ion-label>
+      <ion-input type="number" placeholder="Precio" [(ngModel)]="ticket.price"></ion-input>
+    </ion-item>
+  </ion-list>
+
+  <button class="btn_create_company" color="pink" ion-button full (tap)="createTypeticket()">Crear ticket</button>
+  <button class="btn_create_company" color="dark" ion-button full (tap)="cancelCreateTypeticket()">Volver</button>
+
+</ion-content>

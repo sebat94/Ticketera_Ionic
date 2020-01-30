@@ -1,0 +1,35 @@
+<ion-content padding>
+
+  <ion-list class="mb_40">
+    <ion-list-header class="fs_22">Create Building</ion-list-header>
+
+    <ion-item>
+      <ion-label>Selecciona compañía</ion-label>
+      <ion-select class="text_grey" [(ngModel)]="building.company">
+        <ion-option *ngFor="let company of companies" value="{{ company?.id }}">{{ company?.name }}</ion-option>
+      </ion-select>
+    </ion-item>
+
+    <ion-item class="text_grey">
+      <ion-input type="text" placeholder="Nombre" [(ngModel)]="building.name"></ion-input>
+    </ion-item>
+
+    <ion-item class="text_grey">
+      <ion-input type="text" placeholder="Dirección" [(ngModel)]="building.address"></ion-input>
+    </ion-item>
+
+    <!-- <ion-input type="text" [(ngModel)]="building.lat"></ion-input>
+    <ion-input type="text" [(ngModel)]="building.lon"></ion-input> -->
+
+    <ion-item>
+      <ion-label>Ciudad</ion-label>
+      <ion-select class="text_grey" [(ngModel)]="building.city">
+        <ion-option *ngFor="let city of cities" [value]="city.id">{{ city.name }}</ion-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
+
+  <button class="btn_create_company" color="pink" ion-button full (tap)="createCompany()">Crear compañía</button>
+  <button class="btn_create_company" color="dark" ion-button full (tap)="cancelCreateCompany()">Volver</button>
+
+</ion-content>

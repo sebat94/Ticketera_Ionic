@@ -1,0 +1,44 @@
+<ion-content>
+
+  <div class="background_purple"></div>
+
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <div class="profile_image">
+          <img [src]="user?.image" alt="">
+        </div>
+      </ion-col>
+    </ion-row>
+
+    <ion-row class="mt_10">
+      <ion-col text-center class="fs_22">
+        <div class="ff_rm text_white" *ngIf="user?.name != null">{{ user?.name }} </div>
+        <div class="ff_rm text_white" *ngIf="user?.lastname != null">{{ user?.lastname }}</div>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col text-center class="fs_20">
+        <span class="profile_email">{{ user?.email }}</span>
+      </ion-col>
+    </ion-row>
+
+    <ion-row class="btn_profile_group">
+        <button class="btn_profile" ion-button outline outline color="pink" (tap)="goMyTickets()">Ver mis entradas</button>
+
+        <button class="btn_profile" ion-button outline outline color="pink" *ngIf="dataUserLogged && dataUserLogged.rol === 'RRPP'" (tap)="goSellTickets()">Vender entradas</button>
+        <button class="btn_profile border_top_none" ion-button outline outline color="pink" *ngIf="dataUserLogged && dataUserLogged.rol === 'RRPP'" (tap)="goRequestBuildings()">Buscar building</button>
+
+        <button class="btn_profile" ion-button outline outline color="pink" *ngIf="dataUserLogged && dataUserLogged.rol === 'PROMOTOR'" (tap)="goMyCompanies()">Mis compañías</button>
+
+        <button class="btn_profile" ion-button outline outline color="pink" *ngIf="dataUserLogged && dataUserLogged.rol === 'ADMIN'" (tap)="goPendingCompaniesRequested()">Solicitudes de crear company</button>
+    </ion-row>
+  </ion-grid>
+  
+  <ion-fab bottom right>
+    <button color="pink" ion-fab (tap)="goProfileConfig()">
+      <ion-icon name="cog" role="img" aria-label="cog"></ion-icon>
+      <div class="button-effect"></div>
+    </button>
+  </ion-fab>
+</ion-content>

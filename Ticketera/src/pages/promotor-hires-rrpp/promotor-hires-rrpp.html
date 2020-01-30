@@ -1,0 +1,17 @@
+<ion-content padding>
+
+  <ion-list>
+    <ion-item *ngFor="let rrpp of rrpps; index as i">
+
+      <!-- <img [src]="rrpp.user?.image" alt=""> -->
+      <h2>Nombre: {{ rrpp.user?.name + rrpp.user?.lastname }}</h2>
+      <p>Sexo: {{ rrpp.user?.gender }}</p>
+      <p>Fecha de nacimiento: {{ rrpp.user?.birthdate }}</p>
+      <p>Para el building: {{ buildings[i]?.name }}</p>
+
+      <button ion-button clear item-end color="pink" (tap)="activateRrppToBuilding(rrpp.id, buildings[i].id)">Contratar rrpp</button>
+
+    </ion-item>
+  </ion-list>
+
+</ion-content>

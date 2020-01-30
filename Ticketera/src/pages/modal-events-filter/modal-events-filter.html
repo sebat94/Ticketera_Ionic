@@ -1,0 +1,32 @@
+<ion-content class="modal">
+  <div class="overlay" (tap)="closeModalEventsFilter()"></div>
+  <div class="modal_content">
+
+    <ion-list>
+
+      <h3>Precio</h3>
+      <ion-range dualKnobs="true" [(ngModel)]="knobValues" min="0" max="100" pin="true">
+          <ion-label range-left>0</ion-label>
+          <ion-label range-right >100</ion-label>
+      </ion-range>
+
+      <h3>Fecha</h3>
+      <ngb-datepicker #dp (select)="onDateSelection($event)" [displayMonths]="1" [dayTemplate]="t"></ngb-datepicker>
+      <ng-template #t let-date="date" let-currentMonth="currentMonth" let-focused="focused">
+        <span class="custom-day"
+              [class.focused]="focused"
+              [class.range]="isFrom(date) || isTo(date) || isInside(date) || isHovered(date)"
+              [class.faded]="isHovered(date) || isInside(date)"
+              [class.text-muted]="date.month !== currentMonth"
+              (mouseenter)="hoveredDate = date"
+              (mouseleave)="hoveredDate = null">
+          {{ date.day }}
+        </span>
+      </ng-template>
+
+      <button ion-button float-right color="pink" (click)="filterByDateAndPrice()">Aplicar</button>
+      <button ion-button float-right color="dark" (click)="closeModalEventsFilter()">Volver</button>
+    </ion-list>
+
+  </div>
+</ion-content>

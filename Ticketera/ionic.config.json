@@ -1,0 +1,8 @@
+{
+  "name": "ticketera",
+  "app_id": "a6bb1f5b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

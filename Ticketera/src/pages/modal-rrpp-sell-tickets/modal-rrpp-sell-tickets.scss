@@ -1,0 +1,48 @@
+page-modal-rrpp-sell-tickets {
+
+    ion-content.content-md{
+        @include background-color();
+    }
+
+    ion-content > .scroll-content{
+        padding-top:inherit !important;
+    }
+
+    h1{
+        color:$white-1;
+        margin-bottom:20px;
+    }
+
+    .col{
+        padding:0;
+    }
+
+    .item-md{
+        background:transparent;
+        color:$white-1;
+    }
+
+    .list-md{
+        background-color:rgba(255, 255, 255, 0.1);
+    }
+    .list-md + ion-list ion-list-header{
+        margin-top:0;
+    }
+
+    .list-header-md{
+        border-top:0;
+        border-bottom:1px solid rgba(255, 255, 255, 0.1);
+        color:$white-1;
+        font-size: 1.6rem;
+    }
+
+    .item-md.item-block .item-inner,
+    .list-md .item-input:last-child{
+        border:0;
+    }
+
+    .btn_sell_ticket{
+        height:46px;
+    }
+
+}

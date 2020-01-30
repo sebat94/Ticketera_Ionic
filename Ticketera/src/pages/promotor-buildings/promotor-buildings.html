@@ -1,0 +1,22 @@
+<ion-content padding>
+
+  <ion-list>
+
+    <ion-item *ngFor="let building of buildings">
+      <h2>{{ building.name }}</h2>
+      <p>Ciudad: {{ building.city.name }}</p>
+      <p>Dirección: {{ building.address }}</p>
+      <p>Active: {{ building.active }}</p>
+      <div class="btn_statistics_group">
+        <button class="btn_statistics" color="pink" ion-button outline item-end (tap)="showStatisticsByDateOfBuilding(building)">Ver estadísticas</button>
+        <button class="btn_statistics" color="pink" ion-button outline item-end (tap)="goEventsOfBuilding(building)">Ver eventos</button>
+      </div>
+    </ion-item>
+
+  </ion-list>
+
+  <ion-fab right bottom (tap)="openModalCreateBuilding()">
+    <button ion-fab color="light"><ion-icon name="add"></ion-icon></button>
+  </ion-fab>
+
+</ion-content>

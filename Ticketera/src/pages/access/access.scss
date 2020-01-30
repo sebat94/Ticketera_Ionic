@@ -1,0 +1,104 @@
+page-access {
+
+    // SEGMENTS
+    ion-segment{
+        position:absolute;
+        top:60px;
+        height:60px;
+    }
+    ion-segment-button{
+        color:$pink-1 !important;
+        font-size:16px !important;
+    }
+    ion-segment-button.activated,
+    ion-segment-button.segment-activated{
+        border-color:$pink-1 !important;
+    }
+    // WRAPPER
+    .login_wrapper,
+    .register_wrapper{
+        height:100vh;
+        @include background-color();
+    }
+    // TITLE LOGIN
+    h5{
+        font-size:1.5em;
+        color:$white-2;
+        padding:130px 0 36px 5vw;
+    }
+    // FORM LOGIN
+    ion-item{
+        padding:0 !important;
+        background-color:$grey-3 !important;
+        border:2px solid $grey-2 !important;
+        border-style: solid none solid none !important;
+        border-top:0 !important;
+        &:first-child{
+            border-top:2px solid $grey-2 !important;
+        }
+    }
+    ion-item ion-label{
+        padding-left:5vw;
+    }
+    ion-item ion-label ion-icon,
+    ion-item ion-input{
+        color:$white-2;
+    }
+    ion-item ion-label ion-icon{
+        font-size:26px;
+        opacity:0.7;
+    }
+    .list-md .item-input.input-has-focus,
+    .list-md .item-input.input-has-focus:first-child,
+    .list-md .item-input.input-has-focus:last-child{
+        border-bottom-color: $pink-1 !important;
+    }
+    .list-md .item-input.input-has-focus ion-icon,
+    .list-md .item-input.input-has-focus:first-child ion-icon,
+    .list-md .item-input.input-has-focus:last-child ion-icon{
+        opacity:1;
+    }
+    // BUTTON LOGIN & RESCUE PASSWORD
+    .footer_login,
+    .footer_register{
+        padding-top:26px;
+    }
+    .rescue_password,
+    .login_button,
+    .register_button{
+        position:absolute;
+        width:calc(50% - 5vw);
+        width:-webkit-calc(50% - 5vw);
+        width:-moz-calc(50% - 5vw);
+    }
+    .rescue_password{
+        left:5vw;
+    }
+    .rescue_password a{
+        line-height:46px;
+        color:$grey-1;
+    }
+    .login_button,
+    .register_button{
+        right:5vw;
+    }
+    .login_button button,
+    .register_button button{
+        padding:20px 50px;
+        min-width:152px;
+        max-width:152px;
+    }
+    // SPINNER
+    ion-spinner * {
+        stroke: $pink-1 !important;
+    }
+
+    /*-- Radio button --*/
+    .radio-md .radio-icon{
+        border-color: $white-2;
+    }
+    .radio-md .radio-inner{
+        background-color:$pink-1;;
+    }
+
+}

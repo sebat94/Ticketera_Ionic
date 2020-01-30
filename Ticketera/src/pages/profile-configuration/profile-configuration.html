@@ -1,0 +1,70 @@
+<ion-content padding>
+
+    <ion-list class="mb_40">
+      <ion-list-header class="fs_22 text_grey">Update Username</ion-list-header>
+
+      <ion-item class="text_grey">
+        <ion-icon item-start name="person" role="img" aria-label="person"></ion-icon>
+        <ion-input type="text" placeholder="Change your name" [(ngModel)]="user.name"></ion-input>
+      </ion-item>
+
+      <ion-item class="text_grey">
+        <ion-icon item-start name="person" role="img" aria-label="person"></ion-icon>
+        <ion-input type="text" placeholder="Change your lastname" [(ngModel)]="user.lastname"></ion-input>
+      </ion-item>
+    </ion-list>
+
+    <ion-list class="mb_40">
+      <ion-list-header class="fs_22 text_grey">Update Gender</ion-list-header>
+
+      <ion-list radio-group [(ngModel)]="user.gender">
+        <ion-item class="text_grey">
+          <ion-label><ion-icon item-start name="male" role="img" aria-label="male"></ion-icon> Male</ion-label>
+          <ion-radio color="pink" value="MALE" [checked]="user.gender == 'MALE'"></ion-radio>
+        </ion-item>
+        <ion-item class="text_grey">
+          <ion-label><ion-icon item-start name="female" role="img" aria-label="female"></ion-icon> Female</ion-label>
+          <ion-radio color="pink" value="FEMALE" [checked]="user.gender == 'FEMALE'"></ion-radio>
+        </ion-item>
+        <ion-item class="text_grey">
+          <ion-label><ion-icon item-start name="transgender" role="img" aria-label="transgender"></ion-icon> Other</ion-label>
+          <ion-radio color="pink" value="OTHER" [checked]="user.gender == 'OTHER'"></ion-radio>
+        </ion-item>
+      </ion-list>
+    </ion-list>
+
+    <ion-list class="mb_40">
+      <ion-list-header class="fs_22 text_grey">Update Birthdate</ion-list-header>
+
+      <ion-item>
+        <ion-icon item-start class="text_grey" name="calendar" role="img" aria-label="calendar"></ion-icon>
+        <ion-datetime class="text_grey text_right" displayFormat="DD/MM/YYYY" pickerFormat="DD MMMM YYYY"  min="1900" [max]="today"
+                      name="birthdate" [(ngModel)]="user.birthdate" [placeholder]="user.birthdate ? user.birthdate : 'DD / MM / YYYY'">
+        </ion-datetime>
+      </ion-item>
+    </ion-list>
+
+    <ion-list class="mb_40">
+      <ion-list-header class="fs_22 text_grey">Update Password</ion-list-header>
+
+      <ion-item class="text_grey">
+        <ion-icon item-start name="lock" role="img" aria-label="lock"></ion-icon>
+        <ion-input type="password" placeholder="Password" [(ngModel)]="user.password"></ion-input>
+      </ion-item>
+
+      <ion-item class="text_grey">
+        <ion-icon item-start name="lock" role="img" aria-label="lock"></ion-icon>
+        <ion-input type="password" placeholder="Repeat password" [(ngModel)]="user.repeatPassword"></ion-input>
+      </ion-item>
+    </ion-list>
+
+    <div class="btn_camera fs_20 mb_40">
+      <button ion-button color="dark" (click)="takePhoto()"><ion-icon name="camera"></ion-icon></button>
+      <button ion-button color="pink" (click)="pickFromGallery()"><ion-icon name="albums"></ion-icon></button>
+    </div>
+
+    <div>
+      <button ion-button outline block color="pink" class="btn_update" (tap)="updateProfile()">Actualizar</button>
+    </div>
+
+</ion-content>

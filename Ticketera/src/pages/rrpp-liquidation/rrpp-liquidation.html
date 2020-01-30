@@ -1,0 +1,17 @@
+<ion-slides pager>
+
+  <ion-slide *ngFor="let eventLiquidation of eventsLiquidation; index as i">
+      <div>
+        <h2>Evento de {{ eventLiquidation.event.name }}</h2>
+        <div *ngFor="let typeTicketsSold of eventLiquidation.ticketsSoldByTypeticketRrpp">
+          <div>
+            <p>Tipo de ticket: {{ typeTicketsSold.typeticket.name }}</p>
+            <p>Cantidad vendida: {{ typeTicketsSold.amount }}</p>
+            <p>Dinero generado: {{ typeTicketsSold.moneyGenerated }}</p>
+            <p>Dinero ganado: {{ typeTicketsSold.moneyEarned }}</p>
+          </div>
+        </div>
+      </div>
+  </ion-slide>
+
+</ion-slides>

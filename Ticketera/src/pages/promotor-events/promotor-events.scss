@@ -1,0 +1,26 @@
+page-promotor-events {
+
+    ion-content.content-md{
+        @include background-color();
+    }
+
+    .list-md{
+        margin:16px 0;
+    }
+    ion-item.item-md{
+        background-color:rgba(255, 255, 255, 0.1);
+        margin-bottom:16px;
+    }
+    .item-md,
+    .item-md h2,
+    .item-md p{
+        color:$white-1;
+    }
+    .item-md h2{
+        font-size:1.4em;
+    }
+    .list-md .item-block .item-inner{
+        border-bottom:0;
+    }
+
+}

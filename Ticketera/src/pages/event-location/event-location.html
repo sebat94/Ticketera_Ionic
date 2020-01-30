@@ -1,0 +1,14 @@
+<ion-content>
+
+  <div class="map_wrapper">
+    <ion-fab class="fab_button_map" right (click)="navigate()">
+      <button class="fab fab-ios" ion-fab>
+        <span class="button-inner">
+            <ion-icon ios="ios-navigate" md="md-navigate"></ion-icon>
+        </span>
+      </button>
+    </ion-fab>
+    <ticketera-gmap [lat]="lat" [lng]="lng"></ticketera-gmap>
+  </div>
+
+</ion-content>

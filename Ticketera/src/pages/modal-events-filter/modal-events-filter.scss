@@ -1,0 +1,118 @@
+page-modal-events-filter{
+
+    .content-md{
+        //background-color:rgba(0, 0, 0, 0.5);
+    }
+    .modal{
+
+    }
+    .overlay{
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+    }
+    .modal_content{
+        width: 100%;
+        height: 100%;
+        position:fixed;
+        bottom:0;
+        left: 0;
+        right: 0;
+        padding: 10px;
+        color: #333;
+        @include background-color-white();
+        @include border-radius(5px);
+        overflow-x: hidden;
+        overflow-y: auto;
+        z-index: 100;
+    }
+    h3{
+        margin-top:20px;
+    }
+    /*-- RANGE --*/
+    .range-md.range-has-pin{
+        padding-top:8px;
+    }
+    /*-- CALENDAR --*/
+    // calendar wrapper
+    ngb-datepicker{
+        width:100%;
+        margin:8px 0;
+    }
+    // cada mes que incorporemos en el calenadario obtendrá los siguientes estilos
+    .ngb-dp-month{
+        width:100%;
+    }
+    // section arrows and month / year
+    ngb-datepicker .ngb-dp-header{
+        padding-top:0 !important;
+    }
+    ngb-datepicker .ngb-dp-header ngb-datepicker-navigation{
+        height:40px;
+        border-bottom:1px solid #ccc;
+    }
+    .ngb-dp-arrow{ // Comprobar horizontal flechas
+        width:40px !important;
+        height:40px !important;
+    }
+    .ngb-dp-arrow-btn{
+        display:inline-block;
+        width:40px;
+        height:40px;
+    }
+    ngb-datepicker-navigation ngb-datepicker-navigation-select{
+        flex-basis: 18rem;
+    }
+    ngb-datepicker-navigation ngb-datepicker-navigation-select select.custom-select{
+        flex-basis: 16rem;
+        height:40px !important;
+        background:transparent;
+        font-size:2rem !important;
+        border:0;
+    }
+    // size of box each day and the name of each day
+    .ngb-dp-day,        // 1 casilla
+    .ngb-dp-weekday,    
+    .ngb-dp-week-number{   
+        width: calc(100%/7) !important;
+        height:40px !important;
+    }
+    // size of each name of the day of the week
+    .ngb-dp-weekday,
+    .ngb-dp-week-number{
+        text-align:center;
+        line-height:40px !important;
+        font-style:italic;
+    }
+    .ngb-dp-weekday{
+        color:$pink-1 !important;
+    }
+
+    // .ngb-dp-month:last-child .ngb-dp-week {
+    //     padding-bottom:0.5rem;
+    // }
+    // each day
+    .custom-day{
+        text-align:center;
+        height:40px;
+        //padding:0.185rem 0.25rem;
+        display:block;
+        line-height:40px;
+    }
+    .custom-day.focused{
+        background-color:#e6e6e6;
+    }
+    .custom-day.range,
+    .custom-day:hover{
+        //background-color:rgb(2, 117, 216);
+        background-color:rgb(220, 97, 128);
+        color:white;
+    }
+    .custom-day.faded{
+        //background-color: rgba(2, 117, 216, 0.5);
+        background-color:rgba(220, 97, 128, 0.5);
+    }
+    
+}

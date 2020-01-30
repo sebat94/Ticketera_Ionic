@@ -1,0 +1,71 @@
+page-profile-configuration {
+
+    ion-content.content-md{
+        @include background-color();
+    }
+
+    .list-md{
+        margin:16px 0;
+    }
+
+    ion-list{
+        @include border-radius(3px);
+        background-color:rgba(255, 255, 255, 0.1);
+    }
+    ion-list-header.list-header-md{
+        border-top:0;
+        margin-bottom:0;
+        border-bottom:1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    /*-- Radio button --*/
+    ion-list[radio-group] .label-md,
+    ion-list ion-list.list-md{
+        margin:0;
+    }
+    ion-list ion-list{
+        background:none !important;
+    }
+    .radio-md .radio-icon{
+        border-color: $white-2;
+    }
+    /*.radio-md .radio-checked{
+        border-color: $pink-1;
+    }*/
+
+    /*-- CALENDAR --*/
+    .datetime-md{
+        padding:13px 8px;
+    }
+
+    /*-- PASSWORD --*/
+    .list-md .item-block .item-inner,
+    .list-md .item-input:last-child{
+        border-bottom:0;
+    }
+
+    /*-- RESET BACKGROUND EACH 'ion-item' of 'ion-list' --*/
+    .item-md{
+        background-color:transparent;
+    }
+
+    /*-- BTN UPDATE --*/
+    .btn_update{
+        height:4.4rem;
+    }
+
+    /*-- BTN PICK IMAGE & TAKE FROM GALLEY --*/
+    .btn_camera{
+        width:100%;
+        height:36px;
+    }
+    .btn_camera button{
+        width:49%;
+        margin:0;
+        float:left;
+    }
+    .btn_camera button:first-child{
+        margin-right:2%;
+    }
+
+}

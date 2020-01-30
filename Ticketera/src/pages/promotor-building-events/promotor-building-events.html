@@ -1,0 +1,21 @@
+<ion-content padding>
+
+  <ion-list>
+
+    <ion-item *ngFor="let event of events; index as i">
+      <h2>{{ event.name }}</h2>
+      <p>{{ event.building.address }}</p>
+      <p>{{ event.dateToString }}</p>
+      <div class="btn_statistics_group">
+        <button class="btn_statistics" color="pink" ion-button outline item-end (tap)="goEventStatistics(event)">Ver estadísticas</button>
+        <button class="btn_statistics" color="pink" ion-button outline item-end (tap)="openModalCreateTypeTicket(event)">Crear ticket</button>
+      </div>
+    </ion-item>
+
+  </ion-list>
+
+  <ion-fab right bottom (tap)="openModalCreateEvent()">
+    <button ion-fab color="light"><ion-icon name="add"></ion-icon></button>
+  </ion-fab>
+
+</ion-content>

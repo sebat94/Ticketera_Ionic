@@ -1,0 +1,15 @@
+<ion-content padding>
+    <button ion-button block (tap)="scanQR()">Escanear QR</button>
+    
+    <div *ngIf="isValid">
+      <img [src]="ticket?.user.image" alt="">
+      <h2>{{ ticket?.user.name }} {{ ticket?.user.lastname }}</h2>
+      <p>{{ ticket?.user.email }}</p>
+      <p>DNI: {{ ticket?.user.dni }}</p>
+      <p>{{ ticket?.user.birthdate }}</p>
+      <hr>
+      <p>Tipo de entrada: {{ ticket?.typeticket.name }}</p>
+      <p>Precio: {{ ticket?.typeticket.price }}€</p>
+    </div>
+    
+</ion-content>

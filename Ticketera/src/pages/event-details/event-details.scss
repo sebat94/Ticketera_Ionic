@@ -1,0 +1,97 @@
+page-event-details {
+
+    .event_details{
+        
+    }
+    .event_details_img{
+        width:100vw;
+        height:30vh;
+        position:relative;
+    }
+    .event_details_img > img{
+        width:100%;
+        height:100%;
+        object-fit:cover;
+    }
+    /*-- BUILDING INFO --*/
+    .building{
+        height:80px;
+        position:absolute;
+        bottom:0;
+        padding:0 20px;
+    }
+    .building ion-avatar{
+        height:100%;
+    }
+    .building ion-avatar img{
+        width:80px;
+        height:100%;
+        border-radius:50%;
+            -webkit-border-radius:50%;
+            -moz-border-radius:50%;
+        object-fit:contain;
+    }
+    // Classes added by 'ion-item'
+    .item-md{
+        background-color:transparent;
+    }
+    .item-md.item-block .item-inner{
+        border:none;
+    }
+    // End of added classes
+    /*-- FAB BUY --*/
+    .fab_button{
+        position:absolute;
+        bottom:-20px;
+    }
+    /*-- HORIZONTAL SCROLL --*/
+    // Classes added by 'ion-scroll'
+    ion-scroll{
+        height:90px;
+        margin:30px 6px 0 6px;
+    }
+    ion-scroll .scroll-content .scroll-zoom-wrapper{
+        height:100%;
+        display:flex;
+    }
+    // End of added classes
+    .scroll_horiz_img{
+        min-width:120px;
+        max-width:120px;
+        height:100%;
+        margin-right:6px;
+        border-radius:5px;
+            -webkit-border-radius:5px;
+            -moz-border-radius:5px;
+        overflow:hidden;
+    }
+    .scroll_horiz_img:last-child{
+        margin-right:0;
+    }
+    .scroll_horiz_img img{
+        width:100%;
+        height:100%;
+        object-fit:cover;
+    }
+    /*-- EVENT INFO --*/
+    .event_details_info span{
+        display:block;
+    }
+    .event_type_ticket{
+        width:50%;
+    }
+    .buy_tickets_title{
+        position:relative;
+    }
+    .buy_tickets_title::after{
+        content:'';
+        position:absolute;
+        top:40%;
+        left:5%;
+        width:100%;
+        height:80%;
+        //background-color:rgba(220, 97, 128, 0.3);
+        background-image: linear-gradient(120deg, rgba(240, 147, 251, 0.5) 0%, rgba(245, 87, 108, 0.5) 100%);
+    }    
+
+}
