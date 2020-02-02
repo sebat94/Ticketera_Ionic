@@ -23,11 +23,13 @@ La aplicación recoge los siguientes roles:
 - Administrador (desarrollador), que se encargará de dar de alta a las compañías siempre y cuando entreguen la documentación pertinente.
 
 Una vez dada de alta una Compañía, esta se encargará de crear tantos Buildings (Pubs) como tenga y asociarles los promotores asignados para la gestión de los mismos.
+Los Buildings serán creados a partir de la geolocalización, por lo que para dar de alta uno el promotor deberá encontrarse en el lugar correspondiente, ya que el usuario cuando compre una entrada, consultará la localización a través del punto recogido en el alta del Building.
 
-- Promotor, persona encargada de gestionar los eventos del local, podrá dar de alta los futuros eventos que se celebrarán en él y asignarles el precio, lugar y hora correspondientes, además de las ofertas y el aforo del lugar.
+- Promotor, persona encargada de gestionar los eventos del local, podrá dar de alta los futuros eventos que se celebrarán en él y asignarles el precio, lugar y hora correspondientes, además de las ofertas y el aforo del lugar. También podrán ver las estadísticas en tiempo real de las ventas de entradas del local para cualquier evento dado de alta y ver la productividad de ventas de entradas de cada uno de los rrpps asociados a ellos.
 
 - Rrpp, persona encargada de la venta de entradas, es cierto que el formato papel debe desaparecer, pero muchas personas prefieren el trato con la gente o simplemente prefieren pagar en efectivo, para ello se creará este rol.
 Una persona puede ir a pedir consejo al rrpp y éste ofrecerle algo por lo que esté dispuesto a pagar el cliente, el rrpp solo tendrá que ingresar en el formulario de venta de entradas el correo/nombre de usuario del destinatario para hacerle llegar la entrada al cliente y cobrarle en efectivo.
+Éste rrpp también podrá consultar sus estadísticas de venta de eventos concretos y en relación al tiempo transcurrido.
 
 Las entradas se gestionarán con un código QR.
 
@@ -41,4 +43,4 @@ El ticket tendrá la información del usuario que la ha comprado, nombre, apelli
 Tecnologías:
 -------------
 
-Ionic 2, Angular 6, ES6, TypeScript, Spring Framework, Java 8, HTML 5, CSS 3, MySQL
+Ionic 2, Angular 6, d3.js, ES6, TypeScript, Spring Framework, Java 8, HTML 5, CSS 3, MySQL
